@@ -1,0 +1,6 @@
+{
+    "name": "sebastian/europiebsas",
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4"
+    }
+}

@@ -1,0 +1,193 @@
+@charset "UTF-8";
+/*Básicos*/
+/*Azules*/
+/*Verde*/
+/*Gris*/
+/* - - -  Body - - -*/
+/* line 23, ../sass/style.scss */
+* { margin: 0; padding: 0; }
+
+/* line 28, ../sass/style.scss */
+.container-fluid { margin: 0; padding: 0; }
+
+/* line 34, ../sass/style.scss */
+body { font-family: 'Open Sans', sans-serif; font-size: 16px; background-color: #ffffff; }
+
+/* - - - Header - - -*/
+/* line 41, ../sass/style.scss */
+header { margin: 20px 0 20px; }
+/* line 48, ../sass/style.scss */
+header nav li a { padding: 0; }
+/* line 54, ../sass/style.scss */
+header .navbar-default { background-color: transparent; border-color: transparent; /*Media querie nav-bar */ }
+/* line 60, ../sass/style.scss */
+header .navbar-default .navbar-header .navbar-brand { height: auto; padding: 0; }
+/* line 67, ../sass/style.scss */
+header .navbar-default .navbar-nav { float: right; }
+/* line 72, ../sass/style.scss */
+header .navbar-default .navbar-nav li a { text-transform: uppercase; font-size: 14px; }
+/* line 77, ../sass/style.scss */
+header .navbar-default .navbar-nav li a:hover { color: #5eb5f1; }
+/* line 83, ../sass/style.scss */
+header .navbar-default .navbar-nav li.active { border-bottom: 2px solid #5eb5f1; font-weight: bold; color: #888888; }
+/* line 88, ../sass/style.scss */
+header .navbar-default .navbar-nav li.active a { background-color: transparent; padding: 15px 0 10px; color: #888888; }
+/* line 94, ../sass/style.scss */
+header .navbar-default .navbar-nav li.active a:hover { background-color: transparent; color: #5eb5f1; }
+/* line 102, ../sass/style.scss */
+header .navbar-default .navbar-nav li.link-contacto a { color: #5eb5f1; }
+/* line 106, ../sass/style.scss */
+header .navbar-default .navbar-nav li.link-contacto a:hover { font-weight: bold; }
+@media (max-width: 991px) { /* line 54, ../sass/style.scss */
+  header .navbar-default { /*Corrige media queries toggle button*/ }
+  /* line 117, ../sass/style.scss */
+  header .navbar-default .navbar-collapse.collapse { display: none !important; border-color: transparent; }
+  /* line 121, ../sass/style.scss */
+  header .navbar-default .navbar-collapse.collapse .navbar-form { border-color: transparent; }
+  /* line 126, ../sass/style.scss */
+  header .navbar-default .navbar-collapse.collapse.in { display: block !important; border-color: transparent; margin-top: 10px; }
+  /* line 132, ../sass/style.scss */
+  header .navbar-default .navbar-header { float: none; }
+  /* line 135, ../sass/style.scss */
+  header .navbar-default .navbar-header .collapse, header .navbar-default .navbar-header .navbar-toggle { display: block !important; }
+  /* line 139, ../sass/style.scss */
+  header .navbar-default .navbar-header .navbar-brand { margin-left: 10px; }
+  /* line 144, ../sass/style.scss */
+  header .navbar-default .navbar-nav { background-color: #eaeaea; float: none !important; padding: 10px 20px; }
+  /* line 149, ../sass/style.scss */
+  header .navbar-default .navbar-nav li:nth-child(1) { border-top: transparent; }
+  /* line 153, ../sass/style.scss */
+  header .navbar-default .navbar-nav li { float: none; border-top: 1px solid #ffffff; }
+  /* line 157, ../sass/style.scss */
+  header .navbar-default .navbar-nav li a { padding: 15px 0; color: #888888; }
+  /* line 163, ../sass/style.scss */
+  header .navbar-default .navbar-nav li.active { border-bottom: transparent; color: #5eb5f1; } }
+
+/* - - - Footer - - - */
+/* line 174, ../sass/style.scss */
+footer { margin-top: 50px; padding-bottom: 80px; }
+/* line 178, ../sass/style.scss */
+footer .logo-footer { float: left; padding-left: 5px; }
+/* line 183, ../sass/style.scss */
+footer .social-media { padding-top: 10px; text-align: right; margin-right: 30px; }
+@media (max-width: 991px) { /* line 190, ../sass/style.scss */
+  footer .social-media { margin-right: 15px; } }
+@media (max-width: 479px) { /* line 196, ../sass/style.scss */
+  footer .logo-footer { display: none; }
+  /* line 200, ../sass/style.scss */
+  footer .social-media { text-align: center; margin-right: 0; }
+  /* line 204, ../sass/style.scss */
+  footer .social-media a { text-decoration: none; text-transform: none; } }
+
+/* - - - Home - - - */
+/* line 214, ../sass/style.scss */
+.title { margin: 50px 0 40px; }
+/* line 217, ../sass/style.scss */
+.title h1 { font-size: 40px; font-weight: bold; text-align: center; text-transform: uppercase; color: #29485b; }
+/* line 225, ../sass/style.scss */
+.title p { font-size: 16px; text-align: center; color: #888888; padding: 10px 0 30px; }
+/* line 232, ../sass/style.scss */
+.title p.border-white { border-bottom: 1px solid #ffffff; }
+/* line 236, ../sass/style.scss */
+.title p.border-grey { border-bottom: 1px solid #eaeaea; }
+@media (max-width: 479px) { /* line 242, ../sass/style.scss */
+  .title h1 { font-size: 35px; }
+  /* line 246, ../sass/style.scss */
+  .title p { font-size: 14px; } }
+
+/* - - - Banner - - - */
+/* - - - Descuento - - - */
+/* line 259, ../sass/style.scss */
+.descuento { background-color: #eaeaea; text-align: center; }
+/* line 263, ../sass/style.scss */
+.descuento p { margin: 0; color: #29485b; padding: 10px 15px; }
+
+/* - - - Servicios - - - */
+/* - - - Centros - - - */
+/* line 277, ../sass/style.scss */
+.centros-atencion { background-color: #eaeaea; padding-bottom: 50px; }
+/* line 281, ../sass/style.scss */
+.centros-atencion br { display: none; }
+/* line 285, ../sass/style.scss */
+.centros-atencion .centro { margin-bottom: 40px; }
+/* line 288, ../sass/style.scss */
+.centros-atencion .centro a { background-color: #5eb5f1; color: #ffffff; font-size: 30px; font-weight: bold; width: 45px; text-align: center; vertical-align: middle; float: left; display: block; left: 0; margin-right: 15px; }
+/* line 302, ../sass/style.scss */
+.centros-atencion .centro a:hover { cursor: pointer; background-color: #29485b; text-decoration: none; }
+/* line 308, ../sass/style.scss */
+.centros-atencion .centro h4 { font-size: 16px; font-weight: bold; color: #444444; margin-bottom: 5px; margin-top: 0; }
+/* line 317, ../sass/style.scss */
+.centros-atencion .centro .info { float: left; }
+/* line 320, ../sass/style.scss */
+.centros-atencion .centro .info td { width: 295px; }
+/* line 323, ../sass/style.scss */
+.centros-atencion .centro .info td img { margin-right: 10px; float: left; }
+/* line 328, ../sass/style.scss */
+.centros-atencion .centro .info td p { font-size: 14px; color: #444444; display: inline-block; vertical-align: middle; }
+@media (max-width: 1200px) { /* line 343, ../sass/style.scss */
+  .centros-atencion br { display: block; }
+  /* line 347, ../sass/style.scss */
+  .centros-atencion .clearfix { display: none; }
+  /* line 351, ../sass/style.scss */
+  .centros-atencion .centro { float: left; margin: 0 26px 30px; }
+  /* line 355, ../sass/style.scss */
+  .centros-atencion .centro a { font-size: 16px; width: 30px; padding: 5px 0; }
+  /* line 361, ../sass/style.scss */
+  .centros-atencion .centro .info { margin-top: 10px; }
+  /* line 364, ../sass/style.scss */
+  .centros-atencion .centro .info td { float: none; display: block; width: 270px; }
+  /* line 369, ../sass/style.scss */
+  .centros-atencion .centro .info td img { margin-top: 2px; } }
+@media (max-width: 479px) { /* line 378, ../sass/style.scss */
+  .centros-atencion .centro { margin: 0 15px 30px; }
+  /* line 383, ../sass/style.scss */
+  .centros-atencion .centro td img { width: 15px; margin-top: 10px; }
+  /* line 388, ../sass/style.scss */
+  .centros-atencion .centro td p { font-size: 14px; }
+  /* line 391, ../sass/style.scss */
+  .centros-atencion .centro td p br { display: block; } }
+
+/* - - - Contacto - - - */
+/* line 401, ../sass/style.scss */
+.form-contacto { margin-bottom: 50px; }
+/* line 404, ../sass/style.scss */
+.form-contacto .campos-obligatorios { font-size: 14px; color: #444444; font-weight: normal; }
+/* line 409, ../sass/style.scss */
+.form-contacto .campos-obligatorios span { color: #5eb5f1; }
+/* line 414, ../sass/style.scss */
+.form-contacto .btn-europie { float: right; color: #ffffff; font-size: 14px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; padding: 5px 20px; border-color: transparent; border-radius: 2px; background-color: #e5f375; }
+/* line 427, ../sass/style.scss */
+.form-contacto .social { text-align: center; }
+/* line 430, ../sass/style.scss */
+.form-contacto .social p { font-size: 20px; color: #5eb5f1; margin-bottom: 40px; }
+/* line 436, ../sass/style.scss */
+.form-contacto .social .fb-chico { display: none; }
+@media (max-width: 1199px) { /* line 427, ../sass/style.scss */
+  .form-contacto .social { margin-top: 50px; }
+  /* line 444, ../sass/style.scss */
+  .form-contacto .social p { font-size: 16px; padding: 30px 30px 0; border-top: 1px solid #eaeaea; } }
+@media (max-width: 479px) { /* line 452, ../sass/style.scss */
+  .form-contacto .social .fb-grande { display: none; }
+  /* line 456, ../sass/style.scss */
+  .form-contacto .social .fb-chico { display: block; } }
+/* line 464, ../sass/style.scss */
+.form-contacto .form-group label { font-size: 14px; color: #444444; font-weight: normal; }
+/* line 469, ../sass/style.scss */
+.form-contacto .form-group label span { color: #5eb5f1; }
+/* line 474, ../sass/style.scss */
+.form-contacto .form-group input { border: 1px solid #888888; border-radius: 2px; box-shadow: none; }
+/* line 480, ../sass/style.scss */
+.form-contacto .form-group textarea { border: 1px solid #888888; border-radius: 2px; box-shadow: none; }
+
+/* - - - Clientes - - - */
+/* line 491, ../sass/style.scss */
+.customers { background-color: #eaeaea; padding-bottom: 50px; }
+/* line 495, ../sass/style.scss */
+.customers .partner { background-color: #29485b; padding: 20px 0; text-align: center; }
+/* line 502, ../sass/style.scss */
+.customers .partner:hover { background-color: #5eb5f1; }
+@media (max-width: 479px) { /* line 508, ../sass/style.scss */
+  .customers .col-xs-4 { width: 100%; margin-bottom: 20px; } }
+
+/* - - - Sobre Nosotros - - - */
+/* - - - Air Feet - - - */

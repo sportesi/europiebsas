@@ -1,0 +1,529 @@
+@charset "utf-8";
+
+/*Básicos*/
+$white:#ffffff;
+$black:#000000;
+
+/*Azules*/
+$cyan:#5eb5f1;
+$petroleum:#29485b;
+$darkpetroleum:#1c2d36;
+
+/*Verde*/
+$verde:#e5f375;
+
+/*Gris*/
+$lightgrey:#eaeaea;
+$grey:#888888;
+$mediumgrey:#444444;
+$darkgrey:#222222;
+
+/* - - -  Body - - -*/
+
+*{
+	margin:0;
+	padding:0;
+}
+
+.container-fluid {
+	margin:0;
+	padding:0;
+} 
+
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size:16px;
+	background-color:$white;
+}
+
+/* - - - Header - - -*/
+header {
+	margin:20px 0 20px;
+
+	nav {
+
+		li {
+
+			a {
+				padding:0;
+			}
+		}
+	}
+
+	.navbar-default {
+		background-color:transparent;
+		border-color: transparent;
+
+		.navbar-header {
+
+			.navbar-brand {
+				height: auto;
+				padding:0;
+			}
+
+		}
+
+		.navbar-nav {
+			float: right;
+
+	    	li {
+
+	    		a {
+	    			text-transform: uppercase;
+	 				font-size: 14px;
+	    		}
+
+	    		a:hover {
+	    			color:$cyan;
+	    		}
+
+	    	}
+
+			li.active {
+				border-bottom:2px solid $cyan;
+				font-weight: bold;
+				color:$grey;
+
+				a {
+					background-color:transparent;
+					padding:15px 0 10px;
+					color:$grey;
+				}
+
+				a:hover {
+					background-color:transparent;
+					color: $cyan;
+				}
+			}
+
+			li.link-contacto {
+	    		
+	    		a {
+	    			color:$cyan;
+	    		}
+
+	    		a:hover {
+	    			font-weight: bold;
+	    		}
+
+	    	}
+
+		}
+		
+		/*Media querie nav-bar */
+		@media (max-width: 991px) {
+			/*Corrige media queries toggle button*/
+		    .navbar-collapse.collapse {
+		        display: none !important;
+		        border-color:transparent;
+
+		        .navbar-form {
+		        	border-color:transparent;
+		        } 
+		    }
+
+		    .navbar-collapse.collapse.in {
+		        display: block !important;
+		        border-color:transparent;
+		        margin-top:10px;
+		    }
+
+		    .navbar-header {
+		    	float: none;
+
+		    	.collapse, .navbar-toggle {
+		        	display:block !important;
+		    	}
+
+		    	.navbar-brand {
+		    		margin-left:10px;
+		    	}
+			}
+
+		    .navbar-nav {
+		    	background-color:$lightgrey;
+		    	float:none !important;
+		    	padding:10px 20px;
+
+		    	li:nth-child(1) {
+    				border-top:transparent;
+				}
+
+		    	li {
+		    		float:none;
+		    		border-top: 1px solid $white;
+
+		    		a {
+		    			padding:15px 0;
+		    			color:$grey;
+		    		}
+		    	}
+
+		    	li.active {
+		    		border-bottom:transparent;
+		    		color:$cyan;
+		    	}
+		    }
+		}
+	}
+}
+
+
+/* - - - Footer - - - */
+footer {
+	margin-top:50px;
+	padding-bottom:80px;
+
+	.logo-footer {
+		float:left;
+		padding-left: 5px;
+	}
+
+	.social-media {
+		padding-top:10px;
+		text-align:right;
+		margin-right: 30px;
+	}
+
+	@media (max-width:991px) {
+		.social-media {
+			margin-right:15px;
+		}
+	}
+
+	@media (max-width:479px) {
+		.logo-footer {
+			display:none;
+		}
+
+		.social-media {
+			text-align: center;
+			margin-right:0;
+
+			a {
+				text-decoration: none;
+				text-transform: none;
+			}
+		}
+	}
+}
+
+
+/* - - - Home - - - */
+	.title {
+		margin:50px 0 40px;
+
+		h1 {
+			font-size: 40px;
+			font-weight: bold;
+			text-align: center;
+			text-transform: uppercase;
+			color:$petroleum;
+		}
+
+		p {
+			font-size:16px;
+			text-align: center;
+			color:$grey;
+			padding:10px 0 30px;
+		}
+
+		p.border-white {
+			border-bottom:1px solid $white;
+		}
+
+		p.border-grey {
+			border-bottom:1px solid $lightgrey;
+		}
+
+
+		@media (max-width:479px) {
+			h1 {
+				font-size:35px;
+			}
+
+			p {
+				font-size: 14px;
+			}
+
+		}
+	}
+	
+	/* - - - Banner - - - */
+	.banner {
+
+	}
+
+	/* - - - Descuento - - - */
+	.descuento {
+		background-color:$lightgrey;
+		text-align:center;
+
+		p { 
+			margin:0;
+			color:$petroleum;
+			padding:10px 15px;
+		}
+
+	}
+
+	/* - - - Servicios - - - */
+	.servicios {
+
+	}
+
+	/* - - - Centros - - - */
+	.centros-atencion {
+		background-color:$lightgrey;
+		padding-bottom:50px;
+
+		br {
+			display: none;
+		}
+
+		.centro {
+			margin-bottom: 40px;
+				
+			a {
+				background-color:$cyan;
+				color:$white;
+				font-size:30px;
+				font-weight: bold;
+				width: 45px;
+				text-align: center;
+				vertical-align: middle;
+				float:left;
+				display:block;
+				left: 0;
+				margin-right: 15px;
+			}
+
+			a:hover {
+				cursor: pointer;
+				background-color:$petroleum;
+				text-decoration: none;
+			}
+
+			h4 {
+				font-size:16px;
+				font-weight: bold;
+				color:$mediumgrey;
+				margin-bottom:5px;
+				margin-top: 0;
+			}
+
+
+			.info {
+				float:left;
+				
+				td {
+					width: 295px;
+					
+					img {
+						margin-right:10px;
+						float:left;
+					}
+
+					p {
+						font-size:14px;
+						color:$mediumgrey;
+						display:inline-block;
+						vertical-align: middle;
+					}
+
+
+				}
+			}
+
+		}
+
+		@media (max-width:1200px) {
+
+			br {
+				display:block;
+			}
+
+			.clearfix {
+				display:none;
+			}
+
+			.centro {
+				float:left;
+				margin:0 26px 30px;
+
+				a {
+					font-size: 16px;
+					width: 30px;
+					padding:5px 0;
+				}
+
+				.info {
+					margin-top:10px;				
+
+					td {
+						float:none;
+						display:block;
+						width: 270px;
+
+						img {
+							margin-top:2px;
+						}
+					}
+				}
+			}
+		}
+
+		@media (max-width:479px) {
+			.centro {
+				margin:0 15px 30px;
+
+				td {
+
+					img {
+						width: 15px;
+						margin-top:10px;
+					}
+
+					p {
+						font-size:14px;
+						
+						br {
+							display:block;
+						}
+					}
+				}
+			}	
+		}
+	}
+
+	/* - - - Contacto - - - */
+	.form-contacto {
+		margin-bottom:50px;
+
+		.campos-obligatorios {
+			font-size:14px;
+			color:$mediumgrey;
+			font-weight:normal;
+
+			span {
+				color:$cyan;
+			}
+		}
+
+		.btn-europie {
+			float:right;
+			color:$white;
+			font-size: 14px;
+			font-weight: bold;
+			letter-spacing:2px;
+			text-transform:uppercase;
+			padding:5px 20px;
+			border-color:transparent;
+			border-radius:2px;
+			background-color:$verde;
+		}
+
+		.social {
+			text-align:center;
+
+			p {
+				font-size: 20px;
+				color:$cyan;
+				margin-bottom:40px;
+			}
+
+			.fb-chico {
+				display:none;
+			}
+
+
+			@media (max-width:1199px) {
+				margin-top:50px;
+
+				p {
+					font-size:16px;
+					padding:30px 30px 0;
+					border-top:1px solid $lightgrey;
+				}
+			}
+
+			@media (max-width:479px) {
+				.fb-grande {
+					display:none;
+				}
+
+				.fb-chico {
+					display:block;
+				}
+			}
+		}
+
+		.form-group {
+
+			label {
+				font-size:14px;
+				color:$mediumgrey;
+				font-weight:normal;
+
+				span {
+					color:$cyan;
+				}
+			}
+
+			input {
+				border: 1px solid $grey;
+				border-radius:2px;
+				box-shadow:none;
+			}
+
+			textarea {
+				border:1px solid $grey;
+				border-radius:2px;
+				box-shadow:none;
+			}
+		}
+
+
+	}
+
+	/* - - - Clientes - - - */
+	.customers {
+		background-color:$lightgrey;
+		padding-bottom:50px;
+
+		.partner {
+			background-color:$petroleum;
+			padding:20px 0;
+			text-align: center;
+
+		}
+
+		.partner:hover {
+			background-color:$cyan;
+		}
+
+
+		@media (max-width:479px) {
+			.col-xs-4 {
+				width: 100%;
+				margin-bottom: 20px;
+			}
+		}
+	}
+
+
+/* - - - Sobre Nosotros - - - */
+
+
+
+/* - - - Air Feet - - - */
+
+
+
+
+
+
+
+
+
