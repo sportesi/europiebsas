@@ -1,11 +1,4 @@
 $(document).ready(function () {
-    if (true) {
-        $("#contactForm #name").val("Sebastian Portesi");
-        $("#contactForm #phone").val("1133547942");
-        $("#contactForm #mail").val("sebastian@proyectiva.com");
-        $("#contactForm #message").val("Tengo un problema con mi pie derecho");
-    }
-
     $("#contactForm").on('submit', function (event) {
         event.preventDefault();
         swal({

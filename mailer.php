@@ -14,9 +14,9 @@ $transport = Swift_SmtpTransport::newInstance('mail.proyectiva.com', 25)
 $mailer = Swift_Mailer::newInstance($transport);
 
 $swiftMail = Swift_Message::newInstance()
-        ->setSubject('Nuevo mensaje desde europiebuenosaires.com')
+        ->setSubject('Nuevo mensaje | europiebuenosaires.com')
         ->setFrom(array($mail => $name))
-        ->setTo(array('sebastian.portesi@outlook.com'))
+        ->setTo(array('europie.bsas@gmail.com'))
         ->setBody($message);
 
 $mailer->send($swiftMail);
