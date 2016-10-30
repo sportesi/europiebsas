@@ -7,9 +7,9 @@ $phone = filter_input(INPUT_POST, "phone");
 $mail = filter_input(INPUT_POST, "mail");
 $message = filter_input(INPUT_POST, "message");
 
-$transport = Swift_SmtpTransport::newInstance('mail.proyectiva.com', 25)
-        ->setUsername('test@proyectiva.com')
-        ->setPassword('tes8765!');
+$transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl')
+        ->setUsername('sebastian.nahuel.portesi@gmail.com')
+        ->setPassword('knltdpjnglrvgotf');
 
 $mailer = Swift_Mailer::newInstance($transport);
 
