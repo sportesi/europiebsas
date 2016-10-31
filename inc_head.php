@@ -1,5 +1,6 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0"/>
+<meta name="format-detection" content="telephone=no"/>
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
 <link rel="stylesheet" type="text/css" href="css/slider.css"/>
