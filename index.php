@@ -16,7 +16,7 @@
             <!--/Fin Banner-->
 
             <!--Descuento-->
-            <div class="descuento">
+            <div class="descuento"> 
                 <p>
                     <strong>50%</strong> de 
                     <strong>descuento</strong> solo en 
