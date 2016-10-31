@@ -21,6 +21,7 @@
                     <strong>50%</strong> de 
                     <strong>descuento</strong> solo en 
                     <strong>Noviembre</strong> ¡Pedí tu turno!
+                    <!-- branch diseño -->
                 </p>
             </div>
             <!--/Fin Descuento-->
