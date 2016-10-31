@@ -22,11 +22,11 @@
 							<a href="sobre_nosotros.php">Sobre nosotros</a>
 						</li>
 						<li>
-							<a href="air_feet.php">Air Feet</a>
+							<a href="plantillas.php">Plantillas</a>
 						</li>
-						<li>
+						<!--<li>
 							<a href="novedades.php">Novedades</a>
-						</li>
+						</li>-->
 						<li>
 							<a href="centros.php">Centros</a>
 						</li>

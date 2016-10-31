@@ -11,24 +11,158 @@
             <!--Banner-->
             <div class="banner">
                 <div class="row">
+                    <div class="rslides_container">
+                      <ul class="rslides" id="slider2">
+                        <li><img src="img/b1.jpg" alt=""></li>
+                        <li><img src="img/b2.jpg" alt=""></li>
+                        <li><img src="img/b3.jpg" alt=""></li>
+                        <li><img src="img/b4.jpg" alt=""></li>
+                        <li><img src="img/b5.jpg" alt=""></li>
+                        <li><img src="img/b6.jpg" alt=""></li>
+                        <li><img src="img/b7.jpg" alt=""></li>
+                      </ul>
+                    </div>
                 </div>
             </div>
             <!--/Fin Banner-->
 
             <!--Descuento-->
-            <div class="descuento"> 
+            <div class="descuento">
                 <p>
                     <strong>50%</strong> de 
                     <strong>descuento</strong> solo en 
                     <strong>Noviembre</strong> ¡Pedí tu turno!
-                    <!-- branch desarrollo -->
                 </p>
             </div>
             <!--/Fin Descuento-->
 
             <!--Servicios-->
             <div class="servicios">
-                <div class="row">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <div class="title">
+                                <h4>Plantillas Europie®</h4>
+                                <h1>Elegí las mejores</h1>
+                                <p class="border-grey">
+                                    Plantillas ortopédicas que permiten alinear los huesos de pie y tobillo, restaurar su movimiento adecuado, prevenir y tratar los problemas posturales, dolencias de pie en general, tobillos, rodillas, caderas y espalda baja, realizadas con un sistema computarizado traido de Europa.
+                                    <br>
+                                    <br>
+                                    <a href="plantillas.php">+ info</a> 
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row bottom">
+                        <div class="col-lg-6">
+                            <img src="img/plantillas-despiece.png">
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="steps">
+                                <ul>
+                                    <li>   
+                                        <span>1</span>
+                                        <h4>Análisis estático-dinámico de la pisada</h4>
+                                        <p>Permite determinar lorem ipsum dolor pet asin niruja esna
+                                        la estabildiad del paciente durante la marcha.</p>
+                                    </li>
+                                    <li>   
+                                        <span>2</span>
+                                        <h4>Análisis biomecánico de la marcha</h4>
+                                        <p>Lorem ipsum dolor pet asin niruja esna la estabildiad y asi
+                                        determinar que tipo de plantillas son las ideales para él. </p>
+                                    </li>
+                                    <li>   
+                                        <span>3</span>
+                                        <h4>Análisis postural</h4>
+                                        <p>Nos permite saber y asi dolor pet niruja esna asin lorem
+                                        ipsum postura net anis lectur meanse.</p>
+                                    </li>
+                                    <li>   
+                                        <span>4</span>
+                                        <h4>Confección de plantillas</h4>
+                                        <p>Una vez obtenida es enviada a confección donde las
+                                        realizarán tomando en cuenta los resultados obtenidos.</p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row other-services">
+                        <div class="col-lg-12">
+                            <div class="row little-title">
+                                <h3>Otros servicios</h3>
+                                <p>Consultá por otros servicios con nuestros profesionales.</p>
+                            </div>
+                            <div class="row icons-oth-services">
+                                <div class="col-lg-12">
+                                    <div class="oth-service">
+                                        <div class="img-service prod-first">
+                                            <img src="img/mep-sport.png"/>
+                                            <div class="mascara">  
+                                                <h4>Microelectrólisis percutanea</h4>
+                                                <a href="plantillas.php">+ info</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="oth-service">
+                                        <div class="img-service prod-first">
+                                            <img src="img/fm2-sfma.png"/>
+                                            <div class="mascara">
+                                                <h4>FMS & SFMA</h4>
+                                                <a href="plantillas.php">+ info</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="oth-service">
+                                        <div class="img-service prod-first">
+                                            <img src="img/rehabilitacion.png"/>
+                                            <div class="mascara">
+                                                <h4>Rehabilitación</h4>
+                                                <a href="plantillas.php">+ info</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="oth-service">
+                                        <div class="img-service prod-first">
+                                            <img src="img/rehadap-fisica.png"/>
+                                            <div class="mascara">
+                                                <h4>Rehadaptación física</h4>
+                                                <a href="plantillas.php">+ info</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="oth-service">
+                                        <div class="img-service prod-first">
+                                            <img src="img/hopping-test.png"/>
+                                            <div class="mascara">
+                                                <h4>Test de saltabilidad</h4>
+                                                <a href="plantillas.php">+ info</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="oth-service">
+                                        <div class="img-service prod-first">
+                                            <img src="img/manual-teraphy.png"/>
+                                            <div class="mascara">
+                                                <h4>Terapia manual</h4>
+                                                <a href="plantillas.php">+ info</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="oth-service">
+                                        <div class="img-service prod-first">
+                                            <img src="img/prevention.png"/>
+                                            <div class="mascara">
+                                                <h4>Trabajos preventivos</h4>
+                                                <a href="plantillas.php">+ info</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <!--/Fin Servicios-->
@@ -51,24 +185,18 @@
                                     <a>R</a>
                                     <h4>Kynet Recoleta</h4>
                                     <div class="info">
-                                        <table>
-                                            <tbody>
-                                                <tr>
-                                                    <td>
-                                                        <img src="img/tel.png"/>
-                                                        <p>(011) 4806-7753</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/mail.png"/>
-                                                        <p>recoleta@kynet.com.ar</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/point.png"/>
-                                                        <p>Pueyrredón 2446, Recoleta</p>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
+                                        <div class="info-element">
+                                            <img src="img/tel.png"/>
+                                            <p>(011) 4806-7753</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/mail.png"/>
+                                            <p>recoleta@kynet.com.ar</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/point.png"/>
+                                            <p>Pueyrredón 2446, Recoleta</p>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
@@ -76,24 +204,18 @@
                                     <a>B</a>
                                     <h4>CKR Belgrano</h4>
                                     <div class="info">
-                                        <table>
-                                            <tbody>
-                                                <tr>
-                                                    <td>
-                                                        <img src="img/tel.png"/>
-                                                        <p>(011) 4544-9594</p>
-                                                    </td>
-                                                    <td> 
-                                                        <img src="img/mail.png"/>
-                                                        <p>belgrano@ckr.com.ar</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/point.png"/>
-                                                        <p>Rómulo Naón 2362, PB 3º, Belgrano</p>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
+                                        <div class="info-element">
+                                            <img src="img/tel.png"/>
+                                            <p>(011) 4544-9594</p>
+                                        </div>
+                                        <div class="info-element"> 
+                                            <img src="img/mail.png"/>
+                                            <p>belgrano@ckr.com.ar</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/point.png"/>
+                                            <p>Rómulo Naón 2362, PB 3º, Belgrano</p>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
@@ -101,24 +223,18 @@
                                     <a>F</a>
                                     <h4>TSP Kinesio</h4>
                                     <div class="info">
-                                        <table>
-                                            <tbody>
-                                                <tr>
-                                                    <td>
-                                                        <img src="img/tel.png"/>
-                                                        <p>(011) 4631 - 3424</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/mail.png"/>
-                                                        <p>licmatiasgarcia@hotmail.com</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/point.png"/>
-                                                        <p>Fray Luis Beltrán 72, Flores</p>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>								
+                                        <div class="info-element">
+                                            <img src="img/tel.png"/>
+                                            <p>(011) 4631 - 3424</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/mail.png"/>
+                                            <p>licmatiasgarcia@hotmail.com</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/point.png"/>
+                                            <p>Fray Luis Beltrán 72, Flores</p>
+                                        </div>							
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
@@ -126,24 +242,18 @@
                                     <a>S</a>
                                     <h4>Grupo Médico Las lomas <br> de San Isidro</h4>
                                     <div class="info">
-                                        <table>
-                                            <tbody>
-                                                <tr>
-                                                    <td>
-                                                        <img src="img/tel.png"/>
-                                                        <p>(011) 4735 - 4004</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/mail.png"/>
-                                                        <p>info@gmlsa.com.ar</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/point.png"/>
-                                                        <p>Monseñor Magliano 3041, San Isidro</p>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
+                                        <div class="info-element">
+                                            <img src="img/tel.png"/>
+                                            <p>(011) 4735 - 4004</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/mail.png"/>
+                                            <p>info@gmlsa.com.ar</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/point.png"/>
+                                            <p>Monseñor Magliano 3041, San Isidro</p>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
@@ -151,24 +261,18 @@
                                     <a>P</a>
                                     <h4>Kynet Pilar</h4>
                                     <div class="info">
-                                        <table>
-                                            <tbody>
-                                                <tr>
-                                                    <td>
-                                                        <img src="img/tel.png"/>
-                                                        <p>(0250) 464 - 5362</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/mail.png"/>
-                                                        <p>pilar@kynet.com.ar</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/point.png"/>
-                                                        <p>Panamericana KM 49.5, Pilar</p>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
+                                        <div class="info-element">
+                                            <img src="img/tel.png"/>
+                                            <p>(0250) 464 - 5362</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/mail.png"/>
+                                            <p>pilar@kynet.com.ar</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/point.png"/>
+                                            <p>Panamericana KM 49.5, Pilar</p>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
@@ -176,24 +280,18 @@
                                     <a>M</a>
                                     <h4>Centro Médico Dorrego</h4>
                                     <div class="info">
-                                        <table>
-                                            <tbody>
-                                                <tr>
-                                                    <td>
-                                                        <img src="img/tel.png"/>
-                                                        <p>(011) 4296 - 5309</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/mail.png"/>
-                                                        <p>info@cmdorrego.com.ar</p>
-                                                    </td>
-                                                    <td>
-                                                        <img src="img/point.png"/>
-                                                        <p>Dorrego 473, Monte Grande</p>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
+                                        <div class="info-element">
+                                            <img src="img/tel.png"/>
+                                            <p>(011) 4296 - 5309</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/mail.png"/>
+                                            <p>info@cmdorrego.com.ar</p>
+                                        </div>
+                                        <div class="info-element">
+                                            <img src="img/point.png"/>
+                                            <p>Dorrego 473, Monte Grande</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
