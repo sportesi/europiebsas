@@ -12,6 +12,16 @@
             <div class="banner">
                 <div class="row">
                     <div class="rslides_container">
+                    <div class="caption">
+                        <p class="hashtag">#Europie #BuenosAires</p>
+                        <h2>
+                            <i>TE ACOMPAÑA</i>
+                            <br>
+                            <strong>SIEMPRE</strong>
+                        </h2>
+                        <p class="bajada">Corregí tu pisada, mejorá tu calidad de vida</p>
+                        <a href="plantillas.php">+ info</a>
+                    </div>
                       <ul class="rslides" id="slider2">
                         <li><img src="img/b1.jpg" alt=""></li>
                         <li><img src="img/b2.jpg" alt=""></li>
@@ -96,69 +106,85 @@
                             </div>
                             <div class="row icons-oth-services">
                                 <div class="col-lg-12">
-                                    <div class="oth-service">
-                                        <div class="img-service prod-first">
-                                            <img src="img/mep-sport.png"/>
-                                            <div class="mascara">  
-                                                <h4>Microelectrólisis percutanea</h4>
-                                                <a href="plantillas.php">+ info</a>
+                                    <ul class="list-services">
+                                        <li>
+                                            <div class="oth-service">
+                                                <div class="img-service prod-first">
+                                                    <img src="img/mep-sport.png"/>
+                                                    <div class="mascara">  
+                                                        <h4>Microelectrólisis percutanea</h4>
+                                                        <a href="plantillas.php">+ info</a>
+                                                    </div>
+                                                </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="oth-service">
-                                        <div class="img-service prod-first">
-                                            <img src="img/fm2-sfma.png"/>
-                                            <div class="mascara">
-                                                <h4>FMS & SFMA</h4>
-                                                <a href="plantillas.php">+ info</a>
+                                        </li>
+                                        <li>
+                                            <div class="oth-service">
+                                                <div class="img-service prod-first">
+                                                    <img src="img/fm2-sfma.png"/>
+                                                    <div class="mascara">
+                                                        <h4>FMS & SFMA</h4>
+                                                        <a href="plantillas.php">+ info</a>
+                                                    </div>
+                                                </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="oth-service">
-                                        <div class="img-service prod-first">
-                                            <img src="img/rehabilitacion.png"/>
-                                            <div class="mascara">
-                                                <h4>Rehabilitación</h4>
-                                                <a href="plantillas.php">+ info</a>
+                                        </li>
+                                        <li>
+                                            <div class="oth-service">
+                                                <div class="img-service prod-first">
+                                                    <img src="img/rehabilitacion.png"/>
+                                                    <div class="mascara">
+                                                        <h4>Rehabilitación</h4>
+                                                        <a href="plantillas.php">+ info</a>
+                                                    </div>
+                                                </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="oth-service">
-                                        <div class="img-service prod-first">
-                                            <img src="img/rehadap-fisica.png"/>
-                                            <div class="mascara">
-                                                <h4>Rehadaptación física</h4>
-                                                <a href="plantillas.php">+ info</a>
+                                        </li>
+                                        <li>
+                                            <div class="oth-service">
+                                                <div class="img-service prod-first">
+                                                    <img src="img/rehadap-fisica.png"/>
+                                                    <div class="mascara">
+                                                        <h4>Rehadaptación física</h4>
+                                                        <a href="plantillas.php">+ info</a>
+                                                    </div>
+                                                </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="oth-service">
-                                        <div class="img-service prod-first">
-                                            <img src="img/hopping-test.png"/>
-                                            <div class="mascara">
-                                                <h4>Test de saltabilidad</h4>
-                                                <a href="plantillas.php">+ info</a>
+                                        </li>
+                                        <li>
+                                            <div class="oth-service">
+                                                <div class="img-service prod-first">
+                                                    <img src="img/hopping-test.png"/>
+                                                    <div class="mascara">
+                                                        <h4>Test de saltabilidad</h4>
+                                                        <a href="plantillas.php">+ info</a>
+                                                    </div>
+                                                </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="oth-service">
-                                        <div class="img-service prod-first">
-                                            <img src="img/manual-teraphy.png"/>
-                                            <div class="mascara">
-                                                <h4>Terapia manual</h4>
-                                                <a href="plantillas.php">+ info</a>
+                                        </li>
+                                        <li>
+                                            <div class="oth-service">
+                                                <div class="img-service prod-first">
+                                                    <img src="img/manual-teraphy.png"/>
+                                                    <div class="mascara">
+                                                        <h4>Terapia manual</h4>
+                                                        <a href="plantillas.php">+ info</a>
+                                                    </div>
+                                                </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="oth-service">
-                                        <div class="img-service prod-first">
-                                            <img src="img/prevention.png"/>
-                                            <div class="mascara">
-                                                <h4>Trabajos preventivos</h4>
-                                                <a href="plantillas.php">+ info</a>
+                                        </li>
+                                        <li>
+                                            <div class="oth-service">
+                                                <div class="img-service prod-first">
+                                                    <img src="img/prevention.png"/>
+                                                    <div class="mascara">
+                                                        <h4>Trabajos preventivos</h4>
+                                                        <a href="plantillas.php">+ info</a>
+                                                    </div>
+                                                </div>
                                             </div>
-                                        </div>
-                                    </div>
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -416,6 +442,10 @@
                 fjs.parentNode.insertBefore(js, fjs);
             }
             (document, 'script', 'facebook-jssdk'));
+
+            $(function() {
+                $(".rslides").responsiveSlides();
+            });
         </script>
     </body>
 </html>
