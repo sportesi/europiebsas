@@ -38,9 +38,9 @@
         <!--Descuento-->
         <div class="descuento">
             <p>
-                <strong>50%</strong> de 
-                <strong>descuento</strong> solo en 
-                <strong>Noviembre</strong> ¡Pedí tu turno!
+                <strong>Hacete fan</strong> de nuestra
+                <strong>página de Facebook.</strong> 
+                ¡Ingresá haciendo <a href="https://www.facebook.com/EuropieBuenosAires/" target="blank">click aquí</a>!
             </p>
         </div>
         <!--/Fin Descuento-->

@@ -7,7 +7,6 @@ $black:#000000;
 /*Azules*/
 $cyan:#5eb5f1;
 $petroleum:#29485b;
-$darkpetroleum:#1c2d36;
 
 /*Verde*/
 $verde:#e5f375;
@@ -401,6 +400,25 @@ header {
 			margin:0;
 			color:$petroleum;
 			padding:10px 0;
+
+			a {
+				text-transform: uppercase;
+				text-decoration: none;
+				font-weight:bold;
+				font-size: 14px;
+				background-color:$verde;
+				color:white;
+				padding:3px 10px;
+				border-radius:2px;
+				margin:0 5px;
+				letter-spacing: 1px;
+
+			}
+
+			a:hover {
+				background-color:$petroleum;
+				text-decoration: none;
+			}
 		}
 	}
 
