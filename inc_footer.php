@@ -7,10 +7,10 @@
 		</div>
 		<div class="col-lg-6">
 			<div class="social-media">
-				<a href="www.facebook.com/EuropieBA">
+				<a href="https://www.facebook.com/EuropieBuenosAires/" target="blank">
 					<img src="img/facebook.png" alt="Facebook">
 				</a>
-				<a href="www.plus.google.com/u/0/EuropieBA">
+				<!--<a href="www.plus.google.com/u/0/EuropieBA">
 					<img src="img/google+.png" alt="Google Plus">
 				</a>
 				<a href="www.blogger.com/EuropieBA">
@@ -18,7 +18,7 @@
 				</a>
 				<a href="www.instagram.com/EuropieBA">
 					<img src="img/instagram.png" alt="Instagram">
-				</a>
+				</a>-->
 			</div>
 		</div>
 	</footer>
