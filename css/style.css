@@ -108,7 +108,7 @@ header .navbar-default .navbar-nav li.link-contacto a:hover { font-weight: bold;
 /* line 295, ../sass/style.scss */
 .banner .rslides_container .caption .bajada { font-size: 20px; color: #ffffff; }
 /* line 300, ../sass/style.scss */
-.banner .rslides_container .caption a { color: #e5f375; font-size: 16px; letter-spacing: 2px; }
+.banner .rslides_container .caption a { color: #e5f375; font-size: 16px; letter-spacing: 1px; }
 @media (max-width: 900px) { /* line 308, ../sass/style.scss */
   .banner .rslides_container .caption { margin-top: -106px; }
   /* line 311, ../sass/style.scss */
@@ -168,7 +168,7 @@ header .navbar-default .navbar-nav li.link-contacto a:hover { font-weight: bold;
 /* line 481, ../sass/style.scss */
 .servicios .other-services { text-align: center; margin: 0 auto; background-color: transparent !important; }
 /* line 486, ../sass/style.scss */
-.servicios .other-services .btn-europie { color: #ffffff; font-size: 14px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; padding: 5px 20px; margin-top: 10px; border-color: transparent; border-radius: 2px; background-color: #e5f375; display: inline-block; }
+.servicios .other-services .btn-europie { color: #ffffff; font-size: 14px; font-weight: bold; letter-spacing: 1px; text-transform: uppercase; padding: 5px 20px; margin-top: 10px; border-color: transparent; border-radius: 2px; background-color: #e5f375; display: inline-block; }
 /* line 501, ../sass/style.scss */
 .servicios .other-services .btn-europie:hover { background-color: #29485b; text-decoration: none; }
 /* line 506, ../sass/style.scss */
@@ -269,7 +269,7 @@ header .navbar-default .navbar-nav li.link-contacto a:hover { font-weight: bold;
 /* line 812, ../sass/style.scss */
 .form-contacto .campos-obligatorios span { color: #5eb5f1; }
 /* line 817, ../sass/style.scss */
-.form-contacto .btn-europie { float: right; color: #ffffff; font-size: 14px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; padding: 5px 20px; border-color: transparent; border-radius: 2px; background-color: #e5f375; }
+.form-contacto .btn-europie { float: right; color: #ffffff; font-size: 14px; font-weight: bold; letter-spacing: 1px; text-transform: uppercase; padding: 5px 20px; border-color: transparent; border-radius: 2px; background-color: #e5f375; }
 /* line 830, ../sass/style.scss */
 .form-contacto .btn-europie:hover { background-color: #29485b; }
 /* line 834, ../sass/style.scss */
@@ -373,7 +373,7 @@ footer .social-media { padding-top: 10px; text-align: right; margin-right: 30px;
 /* line 1113, ../sass/style.scss */
 .services .little-title { border-bottom: 1px solid #ffffff; padding-bottom: 30px; margin-bottom: 40px; }
 /* line 1119, ../sass/style.scss */
-.services .btn-europie { color: #ffffff; font-size: 14px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; padding: 5px 20px; border-color: transparent; border-radius: 2px; background-color: #e5f375; display: inline-block; margin-top: 20px; }
+.services .btn-europie { color: #ffffff; font-size: 14px; font-weight: bold; letter-spacing: 1px; text-transform: uppercase; padding: 5px 20px; border-color: transparent; border-radius: 2px; background-color: #e5f375; display: inline-block; margin-top: 20px; }
 /* line 1133, ../sass/style.scss */
 .services .btn-europie:hover { background-color: #29485b; text-decoration: none; }
 /* line 1138, ../sass/style.scss */
