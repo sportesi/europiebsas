@@ -12,7 +12,7 @@
 <script type="text/javascript">
     $(document).ready(function () {
         var path = window.location.pathname.split("/");
-        var file = path[path.length - 1];
+        var file = path[path.length - 1] || 'index.php';
         $(".nav").find("a[href='" + file + "']").parent('li').addClass('active');
     });
 </script>
