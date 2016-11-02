@@ -52,7 +52,7 @@
                 <div class="row cv-description">
                     <div class="col-lg-12">
                         <div class="col-lg-4 description">
-                            <img src="img/nano.png"/>
+                            <img src="img/nano.png" class="hide"/>
                             <h3>Lic. Juan Pablo Rolleri</h3>
                             <h5>Licenciado en kinesiología y fisiatría (UNSAM)</h5>
                             <p>
@@ -60,7 +60,7 @@
                             </p>
                         </div>
                         <div class="col-lg-4 description">
-                            <img src="img/juampi.png"/>
+                            <img src="img/juampi.png" class="hide"/>
                             <h3>Lic. Alberto Sciegata</h3>
                             <h5>Licenciado en Terapia Fisica (USAL)</h5>
                             <p>
@@ -68,7 +68,7 @@
                             </p>
                         </div>
                         <div class="col-lg-4 description">
-                            <img src="img/matias.png"/>
+                            <img src="img/matias.png" class="hide"/>
                             <h3>Lic. Matìas Arduino</h3>
                             <h5>Licenciado en kinesiología y fisiatría (UBA)</h5>
                             <p>
