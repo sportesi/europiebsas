@@ -25,7 +25,7 @@
                     <div class="col-lg-10 col-lg-offset-1">
                         <div class="row">
                             <div class="col-lg-12 centro">
-                                <a>R</a>
+                                <a href="http://www.kynet.com.ar" target="blank">R</a>
                                 <h4>Kynet Recoleta</h4>
                                 <div class="info">
                                     <div class="info-element">
@@ -63,7 +63,7 @@
                             </div>
                             <div class="clearfix"></div>
                             <div class="col-lg-12 centro">
-                                <a>F</a>
+                                <a href="https://www.facebook.com/TSP-Kinesio-Consultorio-de-Kinesiolog%C3%ADa-549934295079271/" target="blank">F</a>
                                 <h4>TSP Kinesio</h4>
                                 <div class="info">
                                     <div class="info-element">
@@ -82,7 +82,7 @@
                             </div>
                             <div class="clearfix"></div>
                             <div class="col-lg-12 centro">
-                                <a>S</a>
+                                <a href="http://http://www.gmlsi.com/" target="blank">S</a>
                                 <h4>Grupo Médico Las lomas <br> de San Isidro</h4>
                                 <div class="info">
                                     <div class="info-element">
@@ -101,7 +101,7 @@
                             </div>
                             <div class="clearfix"></div>
                             <div class="col-lg-12 centro">
-                                <a>P</a>
+                                <a href="http://www.kynet.com.ar" target="blank">P</a>
                                 <h4>Kynet Pilar</h4>
                                 <div class="info">
                                     <div class="info-element">
@@ -120,7 +120,7 @@
                             </div>
                             <div class="clearfix"></div>
                             <div class="col-lg-12 centro">
-                                <a>M</a>
+                                <a href="https://www.facebook.com/Centro-M%C3%A9dico-Dorrego-552430651445299/" target="blank">M</a>
                                 <h4>Centro Médico Dorrego</h4>
                                 <div class="info">
                                     <div class="info-element">
