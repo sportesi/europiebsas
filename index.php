@@ -72,26 +72,22 @@
                                 <li>   
                                     <span>1</span>
                                     <h4>Análisis estático-dinámico de la pisada</h4>
-                                    <p>Permite determinar lorem ipsum dolor pet asin niruja esna
-                                    la estabildiad del paciente durante la marcha.</p>
+                                    <p>El análisis estático y estabilométrico de la pisada que nos permite evaluar la distribución de cargas, superficies y presiones totales.</p>
                                 </li>
                                 <li>   
                                     <span>2</span>
                                     <h4>Análisis biomecánico de la marcha</h4>
-                                    <p>Lorem ipsum dolor pet asin niruja esna la estabildiad y asi
-                                    determinar que tipo de plantillas son las ideales para él. </p>
+                                    <p>Este estudio permite determinar la estrategia postural del individuo, ya sea en pacientes con una patología manifiesta o en personas asintomáticas.</p>
                                 </li>
                                 <li>   
                                     <span>3</span>
                                     <h4>Análisis postural</h4>
-                                    <p>Nos permite saber y asi dolor pet niruja esna asin lorem
-                                    ipsum postura net anis lectur meanse.</p>
+                                    <p>Evaluación integral de la postura  en cuatro vistas: anterior, posterior, lateral y contralateral.</p>
                                 </li>
                                 <li>   
                                     <span>4</span>
                                     <h4>Confección de plantillas</h4>
-                                    <p>Una vez obtenida es enviada a confección donde las
-                                    realizarán tomando en cuenta los resultados obtenidos.</p>
+                                    <p>Una vez obtenida la información necesaria, es enviada a confección donde se realizarán las plantillas según los resultados de los estudios realizados.</p>
                                 </li>
                             </ul>
                         </div>
