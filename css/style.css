@@ -144,7 +144,7 @@ header .navbar-default .navbar-nav li.link-contacto a:hover { font-weight: bold;
 /* line 398, ../sass/style.scss */
 .descuento p { width: 100%; margin: 0; color: #29485b; padding: 10px 0; }
 /* line 404, ../sass/style.scss */
-.descuento p a { text-transform: uppercase; text-decoration: none; font-weight: bold; font-size: 14px; background-color: #e5f375; color: white; padding: 3px 10px; border-radius: 2px; margin: 0 5px; letter-spacing: 1px; }
+.descuento p a { text-transform: uppercase; text-decoration: none; font-weight: bold; font-size: 14px; background-color: #e5f375; color: white; padding: 3px 10px; border-radius: 2px; margin: 0 2px 0 5px; letter-spacing: 1px; }
 /* line 418, ../sass/style.scss */
 .descuento p a:hover { background-color: #29485b; text-decoration: none; }
 
