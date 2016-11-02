@@ -907,7 +907,7 @@ header {
 /* - - - Footer - - - */
 footer {
 	margin-top:40px;
-	padding-bottom:50px;
+	padding-bottom:5%;
 
 	.logo-footer {
 		float:left;
@@ -956,6 +956,60 @@ footer {
 
 
 /* - - - Sobre Nosotros - - - */
+.europie {
+	padding-bottom:40px;
+	
+	.intro-europie {
+
+		p {
+			font-size: 14px;
+		}
+	}
+
+}
+
+.profesionales {
+	margin:0 auto;
+	background-color:$lightgrey;
+	padding-bottom:40px;
+	
+	.little-title {
+		border-bottom:1px solid $white;
+		padding-bottom:20px;
+	}
+
+	
+	.cv-description {
+		
+		.description {
+			img {
+				width: 100%;
+				float: none;
+				margin-bottom: 10px;
+
+			}
+
+			h3 {
+				font-size: 18px;
+				color:$cyan;
+				font-weight: bold;
+
+			}
+
+			h5 {
+				font-size: 16px;
+				font-style: oblique;
+			}
+
+			p {
+				font-size:14px;
+			}
+		}
+
+	}
+
+
+}
 
 
 

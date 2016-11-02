@@ -304,7 +304,7 @@ header .navbar-default .navbar-nav li.link-contacto a:hover { font-weight: bold;
 /* - - - /Termina Home - - -*/
 /* - - - Footer - - - */
 /* line 908, ../sass/style.scss */
-footer { margin-top: 40px; padding-bottom: 50px; }
+footer { margin-top: 40px; padding-bottom: 5%; }
 /* line 912, ../sass/style.scss */
 footer .logo-footer { float: left; padding-left: 5px; }
 /* line 917, ../sass/style.scss */
@@ -324,55 +324,73 @@ footer .social-media { padding-top: 10px; text-align: right; margin-right: 30px;
 
 /* - - - /Termina footer - - - */
 /* - - - Sobre Nosotros - - - */
-/* - - - Plantillas - - - */
-/* line 963, ../sass/style.scss */
-.plantillas { margin-bottom: 50px; /* Media queries Plantillas */ }
-/* line 966, ../sass/style.scss */
-.plantillas .img-border { border-bottom: 1px solid #eaeaea; margin-bottom: 30px; }
+/* line 959, ../sass/style.scss */
+.europie { padding-bottom: 40px; }
+/* line 964, ../sass/style.scss */
+.europie .intro-europie p { font-size: 14px; }
+
 /* line 971, ../sass/style.scss */
-.plantillas img { display: block; margin: 0 auto; width: 60%; }
-/* line 979, ../sass/style.scss */
-.plantillas .intro p { font-size: 14px; }
-/* line 988, ../sass/style.scss */
-.plantillas .steps ul li { list-style: none; margin-bottom: 40px; }
+.profesionales { margin: 0 auto; background-color: #eaeaea; padding-bottom: 40px; }
+/* line 976, ../sass/style.scss */
+.profesionales .little-title { border-bottom: 1px solid #ffffff; padding-bottom: 20px; }
+/* line 985, ../sass/style.scss */
+.profesionales .cv-description .description img { width: 100%; float: none; margin-bottom: 10px; }
 /* line 992, ../sass/style.scss */
+.profesionales .cv-description .description h3 { font-size: 18px; color: #5eb5f1; font-weight: bold; }
+/* line 999, ../sass/style.scss */
+.profesionales .cv-description .description h5 { font-size: 16px; font-style: oblique; }
+/* line 1004, ../sass/style.scss */
+.profesionales .cv-description .description p { font-size: 14px; }
+
+/* - - - Plantillas - - - */
+/* line 1017, ../sass/style.scss */
+.plantillas { margin-bottom: 50px; /* Media queries Plantillas */ }
+/* line 1020, ../sass/style.scss */
+.plantillas .img-border { border-bottom: 1px solid #eaeaea; margin-bottom: 30px; }
+/* line 1025, ../sass/style.scss */
+.plantillas img { display: block; margin: 0 auto; width: 60%; }
+/* line 1033, ../sass/style.scss */
+.plantillas .intro p { font-size: 14px; }
+/* line 1042, ../sass/style.scss */
+.plantillas .steps ul li { list-style: none; margin-bottom: 40px; }
+/* line 1046, ../sass/style.scss */
 .plantillas .steps ul li span { color: #ffffff; font-size: 14px; font-weight: bold; padding: 5px 10px; background-color: #5eb5f1; float: left; margin: 0 10px 0 0; display: inline-block; }
-/* line 1003, ../sass/style.scss */
+/* line 1057, ../sass/style.scss */
 .plantillas .steps ul li h4 { color: #888888; margin-bottom: 0; font-weight: bold; font-size: 16px; }
-/* line 1010, ../sass/style.scss */
+/* line 1064, ../sass/style.scss */
 .plantillas .steps ul li p { color: #444444; font-size: 14px; margin-left: 40px; }
-@media (max-width: 768px) { /* line 1024, ../sass/style.scss */
+@media (max-width: 768px) { /* line 1078, ../sass/style.scss */
   .plantillas .bottom img { display: none; }
-  /* line 1028, ../sass/style.scss */
+  /* line 1082, ../sass/style.scss */
   .plantillas .bottom .img-border { border: none; margin-bottom: 0; } }
 
-/* line 1036, ../sass/style.scss */
+/* line 1090, ../sass/style.scss */
 .services { text-align: center; margin: 0 auto; background-color: #eaeaea; }
-/* line 1041, ../sass/style.scss */
-.services .little-title { border-bottom: 1px solid #ffffff; padding-bottom: 30px; margin-bottom: 40px; }
-/* line 1047, ../sass/style.scss */
-.services .btn-europie { color: #ffffff; font-size: 14px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; padding: 5px 20px; border-color: transparent; border-radius: 2px; background-color: #e5f375; display: inline-block; margin-top: 20px; }
-/* line 1061, ../sass/style.scss */
-.services .btn-europie:hover { background-color: #29485b; text-decoration: none; }
-/* line 1066, ../sass/style.scss */
-.services .btn-europoe:visited { text-decoration: none; text-transform: none; }
-/* line 1071, ../sass/style.scss */
-.services .icons-oth-services { display: inline; width: 100%; margin: 0 auto; }
-/* line 1078, ../sass/style.scss */
-.services .icons-oth-services ul li { list-style-type: none; }
-/* line 1081, ../sass/style.scss */
-.services .icons-oth-services ul li .oth-service { text-align: left; margin-bottom: 30px; overflow: hidden; }
-/* line 1086, ../sass/style.scss */
-.services .icons-oth-services ul li .oth-service img { background-color: #5eb5f1; text-align: left; vertical-align: middle; margin: 4px 10px 0 0; padding: 10px; float: left; }
 /* line 1095, ../sass/style.scss */
+.services .little-title { border-bottom: 1px solid #ffffff; padding-bottom: 30px; margin-bottom: 40px; }
+/* line 1101, ../sass/style.scss */
+.services .btn-europie { color: #ffffff; font-size: 14px; font-weight: bold; letter-spacing: 2px; text-transform: uppercase; padding: 5px 20px; border-color: transparent; border-radius: 2px; background-color: #e5f375; display: inline-block; margin-top: 20px; }
+/* line 1115, ../sass/style.scss */
+.services .btn-europie:hover { background-color: #29485b; text-decoration: none; }
+/* line 1120, ../sass/style.scss */
+.services .btn-europoe:visited { text-decoration: none; text-transform: none; }
+/* line 1125, ../sass/style.scss */
+.services .icons-oth-services { display: inline; width: 100%; margin: 0 auto; }
+/* line 1132, ../sass/style.scss */
+.services .icons-oth-services ul li { list-style-type: none; }
+/* line 1135, ../sass/style.scss */
+.services .icons-oth-services ul li .oth-service { text-align: left; margin-bottom: 30px; overflow: hidden; }
+/* line 1140, ../sass/style.scss */
+.services .icons-oth-services ul li .oth-service img { background-color: #5eb5f1; text-align: left; vertical-align: middle; margin: 4px 10px 0 0; padding: 10px; float: left; }
+/* line 1149, ../sass/style.scss */
 .services .icons-oth-services ul li .oth-service h4 { font-size: 16px; color: #888888; text-transform: uppercase; font-weight: bold; margin: 5px 0 0; }
-/* line 1103, ../sass/style.scss */
+/* line 1157, ../sass/style.scss */
 .services .icons-oth-services ul li .oth-service p { font-size: 14px; color: #444444; margin-left: 80px; }
-@media (max-width: 560px) { /* line 1110, ../sass/style.scss */
+@media (max-width: 560px) { /* line 1164, ../sass/style.scss */
   .services .icons-oth-services ul li .oth-service .img-service { padding: 35px; } }
-@media (max-width: 480px) { /* line 1116, ../sass/style.scss */
+@media (max-width: 480px) { /* line 1170, ../sass/style.scss */
   .services .icons-oth-services ul li .oth-service .img-service { padding: 20px; }
-  /* line 1120, ../sass/style.scss */
+  /* line 1174, ../sass/style.scss */
   .services .icons-oth-services ul li .oth-service .prod-first:hover { display: none; } }
 
 /* - - - /Fin Plantillas - - - */
