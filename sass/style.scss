@@ -18,23 +18,26 @@ $grey:#888888;
 $mediumgrey:#444444;
 $darkgrey:#222222;
 
-* {
+hr {
 	margin:0;
 	padding:0;
 }
 
-.container-fluid {
-	margin:0;
-	padding:0;
-} 
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-left: 0;
+    padding-left: 0;
+}
 
 /* - - -  Body - - -*/
 body {
 	font-family: 'Open Sans', sans-serif;
 	font-size:16px;
 	background-color:$white;
+	width:100%;
+	height:100%;
 }
-
 /* - - - /Termina Body - - - */
 
 
@@ -88,7 +91,7 @@ body {
 	@media (max-width:479px) {
 
 		h1 {
-			font-size:35px;
+			font-size:30px;
 		}
 
 		p {
@@ -119,7 +122,8 @@ body {
 
 /* - - - Header - - -*/
 header {
-	margin:20px 0 20px;
+	margin-top:20px;
+	margin-bottom:20px;
 
 	nav {
 
@@ -225,7 +229,7 @@ header {
 		    .navbar-nav {
 		    	background-color:$lightgrey;
 		    	float:none !important;
-		    	padding:10px 20px;
+		    	padding:10px 15px;
 
 		    	li:nth-child(1) {
     				border-top:transparent;
@@ -236,7 +240,7 @@ header {
 		    		border-top: 1px solid $white;
 
 		    		a {
-		    			padding:15px 0;
+		    			padding:10px 0;
 		    			color:$grey;
 		    		}
 		    	}
@@ -244,6 +248,8 @@ header {
 		    	li.active {
 		    		border-bottom:transparent;
 		    		color:$cyan;
+		    		margin:0;
+
 		    	}
 		    }
 		}
@@ -391,9 +397,10 @@ header {
 		text-align:center;
 
 		p { 
+			width: 100%;
 			margin:0;
 			color:$petroleum;
-			padding:10px 15px;
+			padding:10px 0;
 		}
 	}
 
@@ -403,6 +410,10 @@ header {
 
 		.bottom {
 			border-bottom:1px solid $lightgrey;
+
+			img {
+				width: 100%
+			}
 
 			.steps {
 
@@ -419,7 +430,7 @@ header {
 							padding:5px 10px;
 							background-color:$cyan;
 							float:left;
-							margin:0 10px 40px;
+							margin:0 10px 0;
 							display: inline-block;
 						}
 
@@ -427,13 +438,24 @@ header {
 							color:$grey;
 							margin-bottom:0;
 							font-weight: bold;
+							font-size:16px;
 						}
 						
 						p {
 							color:$mediumgrey;
-							font-size:16px;
+							font-size:14px;
+							margin-left:47px;
 						}
 					}				
+				}
+			}
+		}
+
+		@media (max-width:768px) {
+			.bottom {
+				
+				img {
+					display:none;
 				}
 			}
 		}
@@ -441,6 +463,33 @@ header {
 		.other-services {
 			text-align: center;
 			margin:0 auto;
+			background-color:transparent !important;
+
+			.btn-europie {
+				color:$white;
+				font-size: 14px;
+				font-weight: bold;
+				letter-spacing:2px;
+				text-transform:uppercase;
+				padding:5px 20px;
+				margin-top:10px;
+				border-color:transparent;
+				border-radius:2px;
+				background-color:$verde;
+				display: inline-block;
+			
+			}
+
+			.btn-europie:hover {
+				background-color:$petroleum;
+				text-decoration: none;
+			}
+
+			.btn-europie:visited {
+				text-decoration:none;
+				text-transform:none;
+				border:none;
+			}
 
 			
 			.icons-oth-services {
@@ -462,8 +511,6 @@ header {
 								background-color:$cyan;
 								text-align: center;
 								vertical-align: middle;
-								margin-right:4px;
-								margin-top:4px;
 								padding:40px;
 								overflow: hidden;
 		    					position: relative;
@@ -487,7 +534,7 @@ header {
 
 									h4 {
 										color:$white;
-										font-size:14px;
+										font-size:13px;
 										font-weight: bold;
 										text-transform: uppercase;
 										position:relative;
@@ -497,7 +544,7 @@ header {
 
 									a {
 										color:$verde;
-										font-size:14px;
+										font-size:12px;
 										letter-spacing: 1px;
 										text-decoration: none;
 										position: relative;
@@ -654,11 +701,11 @@ header {
 				float:left;
 
 				.info-element {
-					width: 295px;
+					width: 290px;
 					float:left;
 
 					img {
-						margin-right:10px;
+						margin-right:5px;
 						float:left;
 					}
 
@@ -687,7 +734,7 @@ header {
 
 			.centro {
 				float:left;
-				margin:0 10px 40px;
+				margin:0 0px 40px;
 
 				a {
 					font-size: 16px;
@@ -701,9 +748,10 @@ header {
 					.info-element {
 						float:none;
 						display:block;
-						width: 270px;
+						width: 290px;
 
 						img {
+							margin-right:5px;
 							margin-top:2px;
 						}
 					}
@@ -713,7 +761,7 @@ header {
 
 		@media (max-width:479px) {
 			.centro {
-				margin:0 15px 30px;
+				margin:0 0 30px;
 
 				.info-element {
 
@@ -759,6 +807,10 @@ header {
 			border-color:transparent;
 			border-radius:2px;
 			background-color:$verde;
+		}
+
+		.btn-europie:hover {
+			background-color:$petroleum;
 		}
 
 		.social {
@@ -854,8 +906,8 @@ header {
 
 /* - - - Footer - - - */
 footer {
-	margin-top:50px;
-	padding-bottom:80px;
+	margin-top:40px;
+	padding-bottom:50px;
 
 	.logo-footer {
 		float:left;
@@ -869,12 +921,20 @@ footer {
 	}
 
 	@media (max-width:991px) {
+			
+		margin-top:30px;
+		padding-bottom:40px;
+
 		.social-media {
 			margin-right:15px;
 		}
 	}
 
 	@media (max-width:479px) {
+		
+		margin-top:20px;
+		padding-bottom:30px;
+
 		.logo-footer {
 			display:none;
 		}
@@ -900,3 +960,172 @@ footer {
 
 
 /* - - - Plantillas - - - */
+.plantillas {
+	margin-bottom:50px;
+
+	.img-border {
+		border-bottom: 1px solid $lightgrey;
+		margin-bottom: 30px;
+	}
+
+	img {
+		display:block;
+		margin:0 auto;
+		width: 60%;
+	}
+
+	.intro {
+
+		p {
+			font-size: 14px;
+		}
+	}
+
+	.steps {
+
+		ul {
+
+			li {
+				list-style: none;
+				margin-bottom:40px;
+
+				span {
+					color:$white;
+					font-size:14px;
+					font-weight: bold;
+					padding:5px 10px;
+					background-color:$cyan;
+					float:left;
+					margin:0 10px 0 0;
+					display: inline-block;
+				}
+
+				h4 {
+					color:$grey;
+					margin-bottom:0;
+					font-weight: bold;
+					font-size:16px;
+				}
+				
+				p {
+					color:$mediumgrey;
+					font-size:14px;
+					margin-left: 40px;
+				}
+			}				
+		}
+	}
+
+	/* Media queries Plantillas */
+	@media (max-width:768px) {
+			
+		.bottom {
+			
+			img {
+				display: none;
+			}
+
+			.img-border {
+				border:none;
+				margin-bottom: 0;
+			}
+		}
+	}
+}
+
+.services {
+	text-align: center;
+	margin:0 auto;
+	background-color:$lightgrey;
+
+	.little-title {
+		border-bottom:1px solid $white;
+		padding-bottom:30px;
+		margin-bottom: 40px;
+	}
+
+	.btn-europie {
+		color:$white;
+		font-size: 14px;
+		font-weight: bold;
+		letter-spacing:2px;
+		text-transform:uppercase;
+		padding:5px 20px;
+		border-color:transparent;
+		border-radius:2px;
+		background-color:$verde;
+		display: inline-block;
+		margin-top:20px;
+	}
+
+	.btn-europie:hover {
+		background-color:$petroleum;
+		text-decoration: none;
+	}
+
+	.btn-europoe:visited {
+		text-decoration: none;
+		text-transform: none;
+	}
+
+	.icons-oth-services {
+		display: inline;
+		width: 100%;
+		margin:0 auto;
+
+		ul {
+
+			li {
+				list-style-type: none;
+
+				.oth-service {
+					text-align:left;
+					margin-bottom:30px;
+					overflow: hidden;
+					
+					img {
+						background-color:$cyan;
+						text-align: left;
+						vertical-align: middle;
+						margin:4px 10px 0 0;
+						padding:10px;
+						float: left;						
+					}
+
+					h4 {
+						font-size:16px;
+						color:$grey;
+						text-transform: uppercase;
+						font-weight:bold;
+						margin:5px 0 0;
+					}
+					
+					p {
+						font-size: 14px;
+						color:$mediumgrey;
+						margin-left:80px;
+					}
+
+					@media (max-width:560px) {
+						.img-service {
+							padding:35px;
+						}
+					}
+
+					@media (max-width:480px) {
+						.img-service {
+							padding:20px;
+						}
+
+						.prod-first:hover {
+							display:none;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+/* - - - /Fin Plantillas - - - */
+
