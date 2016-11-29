@@ -11,25 +11,25 @@
         <div class="banner">
             <div class="row">
                 <div class="rslides_container">
-                <div class="caption">
-                    <p class="hashtag">#Europie #BuenosAires</p>
-                    <h2>
-                        <i>TE ACOMPAÑA</i>
-                        <br>
-                        <strong>SIEMPRE</strong>
-                    </h2>
-                    <p class="bajada">Corregí tu pisada, mejorá tu calidad de vida</p>
-                    <a href="plantillas.php">+ info</a>
-                </div>
-                  <ul class="rslides" id="slider2">
-                    <li><img src="img/b1.jpg" alt=""></li>
-                    <li><img src="img/b2.jpg" alt=""></li>
-                    <li><img src="img/b3.jpg" alt=""></li>
-                    <li><img src="img/b4.jpg" alt=""></li>
-                    <li><img src="img/b5.jpg" alt=""></li>
-                    <li><img src="img/b6.jpg" alt=""></li>
-                    <li><img src="img/b7.jpg" alt=""></li>
-                  </ul>
+                    <div class="caption">
+                        <p class="hashtag">#Europie #BuenosAires</p>
+                        <h2>
+                            <i>TE ACOMPAÑA</i>
+                            <br>
+                            <strong>SIEMPRE</strong>
+                        </h2>
+                        <p class="bajada">Corregí tu pisada, mejorá tu calidad de vida</p>
+                        <a href="plantillas.php">+ info</a>
+                    </div>
+                    <ul class="rslides" id="slider2">
+                        <li><img src="img/b8.jpg" alt=""></li>
+                        <li><img src="img/b2.jpg" alt=""></li>
+                        <li><img src="img/b9.jpg" alt=""></li>
+                        <li><img src="img/b3.jpg" alt=""></li>
+                        <li><img src="img/b6.jpg" alt=""></li>
+                        <li><img src="img/b5.jpg" alt=""></li>
+                        <li><img src="img/b1.jpg" alt=""></li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -38,9 +38,9 @@
         <!--Descuento-->
         <div class="descuento">
             <p>
-                <strong>Hacete fan</strong> de nuestra
-                <strong>página de Facebook.</strong> 
-                ¡Ingresá haciendo <a href="https://www.facebook.com/EuropieBuenosAires/" target="blank">click aquí</a>!
+                <strong>Hacete fan</strong> de nuestra <strong>página de Facebook.</strong>
+                <br class="visible-xs hide-lg">
+                ¡Ingresá haciendo<a class="link" href="https://www.facebook.com/EuropieBuenosAires/" target="blank">click aquí</a>!
             </p>
         </div>
         <!--/Fin Descuento-->
@@ -140,7 +140,7 @@
                                         <div class="img-service prod-first">
                                             <img src="img/rehadap-fisica.png"/>
                                             <div class="mascara">
-                                                <h4>Rehadaptación física</h4>
+                                                <h4>Readaptación física</h4>
                                                 <a href="plantillas.php">+ info</a>
                                             </div>
                                         </div>
@@ -298,11 +298,11 @@
                             <div class="clearfix"></div>
                             <div class="col-lg-12 centro">
                                 <a href="https://www.facebook.com/Centro-M%C3%A9dico-Dorrego-552430651445299/" target="blank">M</a>
-                                <h4>Centro Médico Dorrego</h4>
+                                <h4>Europie Canning</h4>
                                 <div class="info">
                                     <div class="info-element">
                                         <img src="img/tel.png"/>
-                                        <p>(011) 4296 - 5309</p>
+                                        <p>(011) 5075-0189</p>
                                     </div>
                                     <div class="info-element">
                                         <img src="img/mail.png"/>
@@ -310,7 +310,7 @@
                                     </div>
                                     <div class="info-element">
                                         <img src="img/point.png"/>
-                                        <p>Dorrego 473, Monte Grande</p>
+                                        <p>Mariano Castex 1277, 3º 410, Canning</p>
                                     </div>
                                 </div>
                             </div>
