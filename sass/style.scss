@@ -24,7 +24,10 @@ $darkgrey:#222222;
 }
 
 html {
+<<<<<<< HEAD
 	width:100%;
+=======
+>>>>>>> 748f8dfebc757c09db0f499b349387d5b441e9fe
 	overflow-x:hidden;
 }
 
@@ -48,7 +51,10 @@ body {
 	background-color:$white;
 	width:100%;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 748f8dfebc757c09db0f499b349387d5b441e9fe
 /* - - - /Termina Body - - - */
 
 /* - - - Generales - - - */
@@ -277,6 +283,10 @@ header {
 		.rslides_container {
 			display:block;
 			position:relative;
+
+			.rslides {
+				width: 100%;
+			}
 
 			.caption {
 				display: block;
