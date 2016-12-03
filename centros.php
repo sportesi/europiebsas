@@ -121,11 +121,11 @@
                             <div class="clearfix"></div>
                             <div class="col-lg-12 centro">
                                 <a href="https://www.facebook.com/Centro-M%C3%A9dico-Dorrego-552430651445299/" target="blank">M</a>
-                                <h4>Centro Médico Dorrego</h4>
+                                <h4>Europie Canning</h4>
                                 <div class="info">
                                     <div class="info-element">
                                         <img src="img/tel.png"/>
-                                        <p>(011) 4296 - 5309</p>
+                                        <p>(011) 5075-0189</p>
                                     </div>
                                     <div class="info-element">
                                         <img src="img/mail.png"/>
@@ -133,7 +133,7 @@
                                     </div>
                                     <div class="info-element">
                                         <img src="img/point.png"/>
-                                        <p>Dorrego 473, Monte Grande</p>
+                                        <p>Av. Mariano Castex 1277, 3º 410, Canning</p>
                                     </div>
                                 </div>
                             </div>

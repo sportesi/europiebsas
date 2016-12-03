@@ -124,7 +124,7 @@
                             <li>
                                 <div class="oth-service">
                                     <img src="img/rehadap-fisica-w.png"/>
-                                    <h4>Rehadaptación física</h4>
+                                    <h4>Readaptación física</h4>
                                     <p>
                                         Asistencia y recuperación del deportista lesionado. Elaboración y aplicación de programas de readaptación física en el tratamiento de los deportistas lesionados y su rápida incorporación al entrenamiento. Prevención de lesiones deportivas
                                     </p>

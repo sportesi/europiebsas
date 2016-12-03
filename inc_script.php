@@ -1,5 +1,5 @@
 <!--Script-->
-<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/mailer.js" type="text/javascript"></script>

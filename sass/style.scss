@@ -17,9 +17,21 @@ $grey:#888888;
 $mediumgrey:#444444;
 $darkgrey:#222222;
 
+* {
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+	width:100%;
+	overflow-x:hidden;
+}
+
 hr {
 	margin:0;
 	padding:0;
+	width:100%;
 }
 
 ol, ul {
@@ -35,11 +47,9 @@ body {
 	font-size:16px;
 	background-color:$white;
 	width:100%;
-	height:100%;
 }
+
 /* - - - /Termina Body - - - */
-
-
 
 /* - - - Generales - - - */
 .title {
@@ -386,6 +396,15 @@ header {
 					border: 0;
 				}
 			}
+
+			@media (max-width:568px) {
+				.rslides {
+					
+					img {
+						width: 100% !important;
+					}
+				}
+			}
 		}
 	}
 
@@ -399,7 +418,8 @@ header {
 			width: 100%;
 			margin:0;
 			color:$petroleum;
-			padding:10px 0;
+			padding:10px;
+			font-size: 16px;
 
 			a {
 				text-transform: uppercase;
@@ -412,12 +432,18 @@ header {
 				border-radius:2px;
 				margin:0 2px 0 5px;
 				letter-spacing: 1px;
-
+				display: inline-block;
 			}
 
 			a:hover {
 				background-color:$petroleum;
 				text-decoration: none;
+			}
+
+			@media (max-width:768px) {
+				a {
+					margin-top:5px;
+				}
 			}
 		}
 	}
@@ -730,8 +756,8 @@ header {
 					p {
 						font-size:14px;
 						color:$mediumgrey;
-						display:inline-block;
 						vertical-align: middle;
+						display: inline-block;
 					}
 
 
