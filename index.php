@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
     <head>
-        <title>Europie Buenos Aires</title>
+        <title>Plantillas ortopédicas | Europie BA</title>
         <?php include_once('inc_head.php') ?>
     </head>
     <body>
@@ -38,9 +38,7 @@
         <!--Descuento-->
         <div class="descuento">
             <p>
-                <strong>Hacete fan</strong> de nuestra <strong>página de Facebook.</strong>
-                <br class="visible-xs hide-lg">
-                ¡Ingresá haciendo<a class="link" href="https://www.facebook.com/EuropieBuenosAires/" target="blank">click aquí</a>!
+                Ingresá a nuestra fan page y dale "Me gusta" haciendo<br class="visible-xs hide-lg"><a class="link" href="http://www.facebook.com/EuropieBuenosAires" onClick="ga('send', 'event', 'Link', 'Facebook', '2017', 0);">click aquí</a> para enterarte todas nuestras novedades!
             </p>
         </div>
         <!--/Fin Descuento-->
@@ -202,6 +200,25 @@
                     <div class="col-lg-10 col-lg-offset-1">
                         <div class="row">
                             <div class="col-lg-12 centro">
+                                <a href="https://www.instagram.com/centrokersport" target="blank">K</a>
+                                <h4>Centro KER</h4>
+                                <div class="info">
+                                    <div class="info-element">
+                                        <img src="img/tel.png"/>
+                                        <p>15 5343 - 2730 / 15 5317 - 3624</p>
+                                    </div>
+                                    <div class="info-element">
+                                        <img src="img/mail.png"/>
+                                        <p>-</p>
+                                    </div>
+                                    <div class="info-element">
+                                        <img src="img/point.png"/>
+                                        <p>General Alvear 260, 4º H, Martinez</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 centro">
                                 <a href="http://www.kynet.com.ar" target="blank">R</a>
                                 <h4>Kynet Recoleta</h4>
                                 <div class="info">
@@ -221,63 +238,6 @@
                             </div>
                             <div class="clearfix"></div>
                             <div class="col-lg-12 centro">
-                                <a>B</a>
-                                <h4>CKR Belgrano</h4>
-                                <div class="info">
-                                    <div class="info-element">
-                                        <img src="img/tel.png"/>
-                                        <p>(011) 4544-9594</p>
-                                    </div>
-                                    <div class="info-element"> 
-                                        <img src="img/mail.png"/>
-                                        <p>belgrano@ckr.com.ar</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/point.png"/>
-                                        <p>Rómulo Naón 2362, PB 3º, Belgrano</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 centro">
-                                <a href="https://www.facebook.com/TSP-Kinesio-Consultorio-de-Kinesiolog%C3%ADa-549934295079271/" target="blank">F</a>
-                                <h4>TSP Kinesio</h4>
-                                <div class="info">
-                                    <div class="info-element">
-                                        <img src="img/tel.png"/>
-                                        <p>(011) 4631 - 3424</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/mail.png"/>
-                                        <p>licmatiasgarcia@hotmail.com</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/point.png"/>
-                                        <p>Fray Luis Beltrán 72, Flores</p>
-                                    </div>							
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 centro">
-                                <a href="http://http://www.gmlsi.com/" target="blank">S</a>
-                                <h4>Grupo Médico Las lomas <br> de San Isidro</h4>
-                                <div class="info">
-                                    <div class="info-element">
-                                        <img src="img/tel.png"/>
-                                        <p>(011) 4735 - 4004</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/mail.png"/>
-                                        <p>info@gmlsa.com.ar</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/point.png"/>
-                                        <p>Monseñor Magliano 3041, San Isidro</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 centro">
                                 <a href="http://www.kynet.com.ar" target="blank">P</a>
                                 <h4>Kynet Pilar</h4>
                                 <div class="info">
@@ -292,25 +252,6 @@
                                     <div class="info-element">
                                         <img src="img/point.png"/>
                                         <p>Panamericana KM 49.5, Pilar</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 centro">
-                                <a href="https://www.facebook.com/Centro-M%C3%A9dico-Dorrego-552430651445299/" target="blank">M</a>
-                                <h4>Europie Canning</h4>
-                                <div class="info">
-                                    <div class="info-element">
-                                        <img src="img/tel.png"/>
-                                        <p>(011) 5075-0189</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/mail.png"/>
-                                        <p>info@cmdorrego.com.ar</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/point.png"/>
-                                        <p>Mariano Castex 1277, 3º 410, Canning</p>
                                     </div>
                                 </div>
                             </div>
@@ -410,7 +351,7 @@
                             <p class="border-white">Ellos confían en la calidad de nuestros servicios y por eso nos acompañan siempre.</p>
                         </div>
                     </div>
-                    <div class="col-lg-8 col-lg-offset-3 col-md-offset-2">
+                    <div class="col-lg-12">
                         <div class="col-lg-3 col-md-3 col-xs-4">
                             <div class="partner">
                                 <a href="www.gmlsi.com/" target="blank">
@@ -429,6 +370,13 @@
                             <div class="partner" target="blank">
                                 <a href="http://www.sensormedica.com/site/es/">
                                     <img src="img/sensor-medica.png"/>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-xs-4">
+                            <div class="partner" target="blank">
+                                <a href="http://www.controlrun.com.ar/">
+                                    <img src="img/control-run.png"/>
                                 </a>
                             </div>
                         </div>
@@ -459,7 +407,7 @@
                 $(".rslides").responsiveSlides();
             });
 
-            <!-- Google Analytics -->
+            /* Google Analytics */
 
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
               (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -468,6 +416,7 @@
 
           ga('create', 'UA-87354877-1', 'auto');
           ga('send', 'pageview');
+
         </script>
     </body>
 </html>

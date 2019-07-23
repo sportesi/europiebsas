@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
     <head>
-        <title>Europie Buenos Aires</title>
+        <title>Contacto | Plantillas ortopédicas | Europie BA</title>
         <?php include_once('inc_head.php') ?>
     </head>
     <body>

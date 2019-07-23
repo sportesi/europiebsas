@@ -16,7 +16,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-lg-offset-3">
                         <div class="title">
-                            <h1>Centros</h1>
+                            <h1>Centros de atención</h1>
                             <p class="border-grey">¡Buscá tu centro de atención de Europie más cercano y visitanos!</p>
                         </div>
                     </div>
@@ -25,12 +25,30 @@
                     <div class="col-lg-10 col-lg-offset-1">
                         <div class="row">
                             <div class="col-lg-12 centro">
+                                <a href="https://www.instagram.com/centrokersport" target="blank">K</a>
+                                <h4>Centro KER</h4>
+                                <div class="info">
+                                    <div class="info-element">
+                                        <img src="img/tel.png"/>
+                                        <p>15 5343 - 2730 / 15 5317 - 3624</p>
+                                    </div>
+                                    <div class="info-element">
+                                        <img src="img/mail.png"/>
+                                        <p>-</p>
+                                    </div>
+                                    <div class="info-element">
+                                        <img src="img/point.png"/>
+                                        <p>General Alvear 260, 4º H, Martinez</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-12 centro">
                                 <a href="http://www.kynet.com.ar" target="blank">R</a>
                                 <h4>Kynet Recoleta</h4>
                                 <div class="info">
                                     <div class="info-element">
                                         <img src="img/tel.png"/>
-                                        <p>(011) 4806-7753</p>
+                                        <p>(011) 4806 - 7753</p>
                                     </div>
                                     <div class="info-element">
                                         <img src="img/mail.png"/>
@@ -39,63 +57,6 @@
                                     <div class="info-element">
                                         <img src="img/point.png"/>
                                         <p>Pueyrredón 2446, Recoleta</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 centro">
-                                <a>B</a>
-                                <h4>CKR Belgrano</h4>
-                                <div class="info">
-                                    <div class="info-element">
-                                        <img src="img/tel.png"/>
-                                        <p>(011) 4544-9594</p>
-                                    </div>
-                                    <div class="info-element"> 
-                                        <img src="img/mail.png"/>
-                                        <p>belgrano@ckr.com.ar</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/point.png"/>
-                                        <p>Rómulo Naón 2362, PB 3º, Belgrano</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 centro">
-                                <a href="https://www.facebook.com/TSP-Kinesio-Consultorio-de-Kinesiolog%C3%ADa-549934295079271/" target="blank">F</a>
-                                <h4>TSP Kinesio</h4>
-                                <div class="info">
-                                    <div class="info-element">
-                                        <img src="img/tel.png"/>
-                                        <p>(011) 4631 - 3424</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/mail.png"/>
-                                        <p>licmatiasgarcia@hotmail.com</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/point.png"/>
-                                        <p>Fray Luis Beltrán 72, Flores</p>
-                                    </div>                          
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 centro">
-                                <a href="http://http://www.gmlsi.com/" target="blank">S</a>
-                                <h4>Grupo Médico Las lomas <br> de San Isidro</h4>
-                                <div class="info">
-                                    <div class="info-element">
-                                        <img src="img/tel.png"/>
-                                        <p>(011) 4735 - 4004</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/mail.png"/>
-                                        <p>info@gmlsa.com.ar</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/point.png"/>
-                                        <p>Monseñor Magliano 3041, San Isidro</p>
                                     </div>
                                 </div>
                             </div>
@@ -115,25 +76,6 @@
                                     <div class="info-element">
                                         <img src="img/point.png"/>
                                         <p>Panamericana KM 49.5, Pilar</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 centro">
-                                <a href="https://www.facebook.com/Centro-M%C3%A9dico-Dorrego-552430651445299/" target="blank">M</a>
-                                <h4>Europie Canning</h4>
-                                <div class="info">
-                                    <div class="info-element">
-                                        <img src="img/tel.png"/>
-                                        <p>(011) 5075-0189</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/mail.png"/>
-                                        <p>info@cmdorrego.com.ar</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/point.png"/>
-                                        <p>Av. Mariano Castex 1277, 3º 410, Canning</p>
                                     </div>
                                 </div>
                             </div>

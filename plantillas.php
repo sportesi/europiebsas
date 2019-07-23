@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
     <head>
-        <title>Europie Buenos Aires</title>
+        <title>Plantillas | Plantillas ortopédicas | Europie BA</title>
         <?php include_once('inc_head.php') ?>
     </head>
     <body>
@@ -32,9 +32,8 @@
                             <p>Nuestro método es utilizado y reconocido a nivel mundial tanto en prevención y diagnóstico como así también en tratamientos ritunarios de pacientes que fueron o serán intervenidos quirurgicamente de afecciones traumatològicas como reemplazos de cadera, rodilla, artrodesis de columna y demas articulaciones de miembro inferior, fracturas de pelvis, fémur, tibia y peroné, tobillo y pie, escoliosis, osteoporosis y aplastamiento vertebral entre otras.
                             <br>
                             <br>
-                            Siguiendo la tendencia de los principales Centros de Tratamientos de afecciones ortopédicas-traumatológicas quirúrgicas, Europie realiza como estudios rutinarios antes de cirugías y también posteriormente, controles comparativos a los 6 meses y al año, para poder determinar la neopisada incluyendo la longitud de ambos miembros inferiores.</p>
+                            Siguiendo la tendencia de los principales Centros de Tratamientos de afecciones ortopédicas-traumatológicas quirúrgicas, Europie realiza como estudios rutinarios antes de cirugías y también posteriormente para poder determinar la neopisada incluyendo la longitud de ambos miembros inferiores.</p>
                         </div>
-                        <br>
                         <br>
                         <div class="steps">
                             <ul>
