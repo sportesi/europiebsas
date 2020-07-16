@@ -238,6 +238,25 @@
                             </div>
                             <div class="clearfix"></div>
                             <div class="col-lg-12 centro">
+                                <a href="https://www.instagram.com/tspkinesio/" target="blank">T</a>
+                                <h4>TSP</h4>
+                                <div class="info">
+                                    <div class="info-element">
+                                        <img src="img/tel.png"/>
+                                        <p>(011) 4631-3424</p>
+                                    </div>
+                                    <div class="info-element">
+                                        <img src="img/mail.png"/>
+                                        <p>tspkinesio@gmail.com</p>
+                                    </div>
+                                    <div class="info-element">
+                                        <img src="img/point.png"/>
+                                        <p>Fray Luis Beltrán 72 2º D, Caballito</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 centro">
                                 <a href="http://www.kynet.com.ar" target="blank">P</a>
                                 <h4>Kynet Pilar</h4>
                                 <div class="info">
