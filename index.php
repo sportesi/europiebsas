@@ -40,10 +40,9 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="title">
-                            <h4>Plantillas AirFeet®</h4>
-                            <h1>Elegí las mejores</h1>
+                            <h1>Nuestras Plantillas AirFeet®</h1>
                             <p class="border-grey">
-                                Plantillas ortopédicas que permiten alinear los huesos de pie y tobillo, restaurar su movimiento adecuado, prevenir y tratar los problemas posturales, dolencias de pie en general, tobillos, rodillas, caderas y espalda baja, realizadas con un sistema computarizado traido de Europa.
+                                Permiten alinear los huesos de pie y tobillo, restaurar su movimiento adecuado, prevenir y tratar los problemas posturales, dolor de pie en general, tobillos, rodillas, caderas y espalda baja, realizadas con un sistema computarizado traido de Europa.
                                 <br>
                                 <br>
                                 <a href="plantillas.php">+ info</a> 
