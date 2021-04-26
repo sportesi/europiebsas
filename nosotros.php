@@ -23,7 +23,7 @@
                     </div>
                 </div>
                 <div class="row bottom">
-                    <div class="col-lg-12">
+                    <div class="col-lg-6">
                         <div class="intro-europie">
                             <p>
                                 Nuestra especialidad es ofrecer soluciones de máxima precision a todos nuestros pacientes, para la prevención y tratamiento de problemas posturales, dolencias de pie en general, tobillos, rodillas y espalda baja entre otras. Esta metodología se sustenta en un equipo multidisciplinario de trabajo que cuenta con médicos traumatólogos licenciados en fisioterapia, doctores en quiropraxia y especialistas en biomedicina, como en equipamiento computarizado de última generación, contando con tecnología 3D de avanzada, única en el mercado.
@@ -32,6 +32,13 @@
                                 En ese marco, nuestros profesionales permanecen atentos a una contínua capacitación, asistiendo a eventos mundiales de Estados Unidos, Europa y Asia, así como también nacionales, tanto de carácter médico como deportivo.
                                 <br>
                                 <br>
+                                A lo largo de los últimos 10 años hemos realizado más de 25.000 estudios de pies y postura. Esta vasta experiencia, ha permitido que Europie emprenda un proceso de expansión que continúa ampliándose permanentemente. A esta expansión geográfica, sumamos un crecimiento en servicios incorporando una unidad móvil equipada y única en el país. Esta innovación permite que en Europie llegué más allá de sus instalaciones, ofreciento evaluar pacientes tanto en instituciones médicas externas como en eventos deportivos.
+                            </p>
+                        </div>
+                    </div>
+		    <div class="col-lg-6">
+                        <div class="intro-europie">
+                            <p>
                                 A lo largo de los últimos 10 años hemos realizado más de 25.000 estudios de pies y postura. Esta vasta experiencia, ha permitido que Europie emprenda un proceso de expansión que continúa ampliándose permanentemente. A esta expansión geográfica, sumamos un crecimiento en servicios incorporando una unidad móvil equipada y única en el país. Esta innovación permite que en Europie llegué más allá de sus instalaciones, ofreciento evaluar pacientes tanto en instituciones médicas externas como en eventos deportivos.
                             </p>
                         </div>
