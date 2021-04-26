@@ -23,25 +23,6 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-10 col-lg-offset-1">
-                        <div class="row">
-                            <div class="col-lg-12 centro">
-                                <a href="https://www.instagram.com/centrokersport" target="blank">K</a>
-                                <h4>Centro KER</h4>
-                                <div class="info">
-                                    <div class="info-element">
-                                        <img src="img/tel.png"/>
-                                        <p>15 5343 - 2730 / 15 5317 - 3624</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/mail.png"/>
-                                        <p>-</p>
-                                    </div>
-                                    <div class="info-element">
-                                        <img src="img/point.png"/>
-                                        <p>General Alvear 260, 4º H, Martinez</p>
-                                    </div>
-                                </div>
-                            </div>
                             <div class="col-lg-12 centro">
                                 <a href="http://www.kynet.com.ar" target="blank">R</a>
                                 <h4>Kynet Recoleta</h4>
