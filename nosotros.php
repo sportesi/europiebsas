@@ -51,8 +51,7 @@
                 <div class="row">
                     <div class="col-lg-4 col-lg-offset-4"> 
                         <div class="little-title">
-                            <h3>Nuestros profesionales</h3>
-                            <p>Conocé a nuestros profesionales.</p>
+                            <h3>Conocenos</h3>
                         </div>
                     </div>
                 </div>
