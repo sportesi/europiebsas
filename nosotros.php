@@ -51,23 +51,15 @@
                 </div>
                 <div class="row cv-description">
                     <div class="col-lg-12">
-                        <div class="col-lg-4 description">
+                        <div class="col-lg-6 description">
                             <img src="img/nano.png" class="hide"/>
-                            <h3>Lic. Juan Pablo Rolleri</h3>
-                            <h5>Licenciado en kinesiología y fisiatría (UNSAM)</h5>
-                            <p>
-                                Kinesiologo del Club Atletico Banfield, certificado en MEP sport, Dynamic Neuromuscular Stabilization Course, Mulligan´s Manual Therapy Concept.
-                            </p>
-                        </div>
-                        <div class="col-lg-4 description">
-                            <img src="img/juampi.png" class="hide"/>
                             <h3>Lic. Alberto Sciegata</h3>
                             <h5>Licenciado en Terapia Fisica (USAL)</h5>
                             <p>
                                 Kinesiologo del Club Atletico Banfield, Certificado en MEP sport, Dynamic Neuromuscular Stabilization Course; Curso de movilización miofascial para la mejora del rendimiento.
                             </p>
                         </div>
-                        <div class="col-lg-4 description">
+                        <div class="col-lg-6 description">
                             <img src="img/matias.png" class="hide"/>
                             <h3>Lic. Matìas Arduino</h3>
                             <h5>Licenciado en kinesiología y fisiatría (UBA)</h5>
