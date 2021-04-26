@@ -352,31 +352,17 @@
                         </div>
                     </div>
                     <div class="col-lg-12">
-                        <div class="col-lg-3 col-md-3 col-xs-4">
-                            <div class="partner">
-                                <a href="www.gmlsi.com/" target="blank">
-                                    <img src="img/laslomas-sanisidro.png"/>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-xs-4">
+                        <div class="col-lg-6 col-md-6 col-xs-12">
                             <div class="partner">
                                 <a href="www.kynet.com.ar/" target="blank">
                                     <img src="img/kynet.png"/>
                                 </a>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-3 col-xs-4">
+                        <div class="col-lg-6 col-md-6 col-xs-12">
                             <div class="partner" target="blank">
                                 <a href="http://www.sensormedica.com/site/es/">
                                     <img src="img/sensor-medica.png"/>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-3 col-xs-4">
-                            <div class="partner" target="blank">
-                                <a href="http://www.controlrun.com.ar/">
-                                    <img src="img/control-run.png"/>
                                 </a>
                             </div>
                         </div>
