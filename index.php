@@ -34,15 +34,6 @@
             </div>
         </div>
         <!--/Fin Banner-->
-
-        <!--Descuento-->
-        <div class="descuento">
-            <p>
-                Ingresá a nuestra fan page y dale "Me gusta" haciendo<br class="visible-xs hide-lg"><a class="link" href="http://www.facebook.com/EuropieBuenosAires" onClick="ga('send', 'event', 'Link', 'Facebook', '2017', 0);">click aquí</a> para enterarte todas nuestras novedades!
-            </p>
-        </div>
-        <!--/Fin Descuento-->
-
         <!--Servicios-->
         <div class="servicios">
             <div class="container">
