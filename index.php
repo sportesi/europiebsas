@@ -14,12 +14,12 @@
                     <div class="caption">
                         <p class="hashtag">#Europie #BuenosAires</p>
                         <h2>
-                            <i>TE ACOMPAÑA</i>
+                            <i>Te acompaña</i>
                             <br>
-                            <strong>SIEMPRE</strong>
+                            <strong>siemrpe</strong>
                         </h2>
                         <p class="bajada">Corregí tu pisada, mejorá tu calidad de vida</p>
-                        <a href="plantillas.php">+ info</a>
+                        <a href="plantillas.php">más información</a>
                     </div>
                     <ul class="rslides" id="slider2">
                         <li><img src="img/b8.jpg" alt=""></li>
@@ -34,18 +34,20 @@
             </div>
         </div>
         <!--/Fin Banner-->
+
         <!--Servicios-->
         <div class="servicios">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="title">
-                            <h1>Nuestras Plantillas AirFeet®</h1>
+                            <h4>Plantillas AirFeet®</h4>
+                            <h1>Elegí las mejores</h1>
                             <p class="border-grey">
-                                Permiten alinear los huesos de pie y tobillo, restaurar su movimiento adecuado, prevenir y tratar los problemas posturales, dolor de pie en general, tobillos, rodillas, caderas y espalda baja, realizadas con un sistema computarizado traido de Europa.
+                                Plantillas ortopédicas que permiten alinear los huesos de pie y tobillo, restaurar su movimiento adecuado, prevenir y tratar los problemas posturales, dolencias de pie en general, tobillos, rodillas, caderas y espalda baja, realizadas con un sistema computarizado traido de Europa.
                                 <br>
                                 <br>
-                                <a href="plantillas.php">+ info</a> 
+                                <a href="plantillas.php">más información</a> 
                             </p>
                         </div>
                     </div>
@@ -84,86 +86,73 @@
                 <div class="row other-services">
                     <div class="col-lg-12">
                         <div class="row little-title">
-                            <h3>Otros servicios</h3>
-                            <p>Consultá por otros servicios con nuestros profesionales.</p>
-                            <a class="btn-europie" href="contacto.php" ">Consultar</a>
+                            <h3>También tenemos estos servicios para ofrecerte</h3>
+                            <a class="btn-europie" href="contacto.php">Consultar</a>
                         </div>
                         <div class="row icons-oth-services">
                             <ul class="list-services">
                                 <li>
                                     <div class="oth-service">
-                                        <div class="img-service prod-first">
+                                        <div class="img-service">
                                             <img src="img/mep-sport.png"/>
-                                            <div class="mascara">  
-                                                <h4>Microelectrólisis percutanea</h4>
-                                                <a href="plantillas.php">+ info</a>
-                                            </div>
+                                            <h4>Microelectrólisis percutanea</h4>
+                                            <a href="plantillas.php">más información</a>
                                         </div>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="oth-service">
-                                        <div class="img-service prod-first">
+                                        <div class="img-service">
                                             <img src="img/fm2-sfma.png"/>
                                             <div class="mascara">
                                                 <h4>FMS & SFMA</h4>
-                                                <a href="plantillas.php">+ info</a>
+                                                <a href="plantillas.php">más información</a>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="oth-service">
-                                        <div class="img-service prod-first">
+                                        <div class="img-service">
                                             <img src="img/rehabilitacion.png"/>
-                                            <div class="mascara">
-                                                <h4>Rehabilitación</h4>
-                                                <a href="plantillas.php">+ info</a>
-                                            </div>
+                                            <h4>Rehabilitación</h4>
+                                            <a href="plantillas.php">más información</a>
                                         </div>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="oth-service">
-                                        <div class="img-service prod-first">
+                                        <div class="img-service">
                                             <img src="img/rehadap-fisica.png"/>
-                                            <div class="mascara">
-                                                <h4>Readaptación física</h4>
-                                                <a href="plantillas.php">+ info</a>
-                                            </div>
+                                            <h4>Readaptación física</h4>
+                                            <a href="plantillas.php">más información</a>
                                         </div>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="oth-service">
-                                        <div class="img-service prod-first">
+                                        <div class="img-service">
                                             <img src="img/hopping-test.png"/>
-                                            <div class="mascara">
-                                                <h4>Test de saltabilidad</h4>
-                                                <a href="plantillas.php">+ info</a>
-                                            </div>
+                                            <h4>Test de saltabilidad</h4>
+                                            <a href="plantillas.php">más información</a>
                                         </div>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="oth-service">
-                                        <div class="img-service prod-first">
+                                        <div class="img-service">
                                             <img src="img/manual-teraphy.png"/>
-                                            <div class="mascara">
-                                                <h4>Terapia manual</h4>
-                                                <a href="plantillas.php">+ info</a>
-                                            </div>
+                                            <h4>Terapia manual</h4>
+                                            <a href="plantillas.php">más información</a>
                                         </div>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="oth-service">
-                                        <div class="img-service prod-first">
+                                        <div class="img-service">
                                             <img src="img/prevention.png"/>
-                                            <div class="mascara">
-                                                <h4>Trabajos preventivos</h4>
-                                                <a href="plantillas.php">+ info</a>
-                                            </div>
+                                            <h4>Trabajos preventivos</h4>
+                                            <a href="plantillas.php">más información</a>
                                         </div>
                                     </div>
                                 </li>
@@ -182,7 +171,7 @@
                     <div class="col-lg-6 col-lg-offset-3">
                         <div class="title">
                             <h1>Centros</h1>
-                            <p class="border-white">¡Buscá tu centro de atención de Europie más cercano y visitanos!</p>
+                            <p class="border-white">¡Buscá el centro de atención de Europie más cercano, pedí un turno y visitanos!</p>
                         </div>
                     </div>
                 </div>
@@ -278,7 +267,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="title">
                             <h1>Contactanos</h1>
-                            <p class="border-grey">No hay duda de que tenés un montón de preguntas sobre nuestros servicios. Entrá en contacto con nosotros, vamos a estar más que contentos de responder cualquier consulta que tengas.</p>
+                            <p class="border-grey">¡Si tenés dudas o preguntas sobre nuestros servicios, dejanos un mensaje!</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -312,7 +301,7 @@
                     <div class="col-lg-6 social">
                         <p>¡También podés contactarnos a través de nuestras redes sociales y enterarte nuestras novedades!</p>
                         <a href="https://www.instagram.com/europie.bsas/?hl=es-la" target=blank>Instagram</a>
-                        <a href="https://www.facebook.com/EuropieBuenosAires" target=blank>Facebook</a>                                                             
+                        <a href="https://www.facebook.com/EuropieBuenosAires" target=blank>Facebook</a>
                     </div>
                 </div>
             </div>
@@ -325,8 +314,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="title">
-                            <h1>Confían en nosotros</h1>
-                            <p class="border-white">Ellos confían en la calidad de nuestros servicios y por eso nos acompañan siempre.</p>
+                            <h1>Ellos confían en nuestros servicios</h1>
                         </div>
                     </div>
                     <div class="col-lg-12">

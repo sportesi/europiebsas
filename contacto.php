@@ -16,7 +16,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="title">
                             <h1>Contactanos</h1>
-                            <p class="border-grey">No hay duda de que tenés un montón de preguntas sobre nuestros servicios. Entrá en contacto con nosotros, vamos a estar más que contentos de responder cualquier consulta que tengas.</p>
+                            <p class="border-grey">¡Si tenés dudas o preguntas sobre nuestros servicios, dejanos un mensaje!</p>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -48,21 +48,9 @@
                         </form>
                     </div>
                     <div class="col-lg-6 social">
-                        <p>¡Recordá que también podés contactarnos a través de Facebook y enterarte todas nuestras novedades, promociones y descuentos!</p>
-                        <div class="fb-grande">
-                            <div class="fb-page" data-href="https://www.facebook.com/EuropieBuenosAires/?fref=ts" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
-                                <blockquote cite="https://www.facebook.com/EuropieBuenosAires/?fref=ts" class="fb-xfbml-parse-ignore">
-                                    <a href="https://www.facebook.com/EuropieBuenosAires/?fref=ts">Europie Buenos Aires</a>
-                                </blockquote>
-                            </div>
-                        </div>
-                        <div class="fb-chico">
-                            <div class="fb-page" data-href="https://www.facebook.com/EuropieBuenosAires/?fref=ts" data-width="275" data-small-header="true" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="false">
-                                <blockquote cite="https://www.facebook.com/EuropieBuenosAires/?fref=ts" class="fb-xfbml-parse-ignore">
-                                    <a href="https://www.facebook.com/EuropieBuenosAires/?fref=ts">Europie Buenos Aires</a>
-                                </blockquote>
-                            </div>
-                        </div>
+                        <p>¡También podés contactarnos a través de nuestras redes sociales y enterarte nuestras novedades!</p>
+                        <a href="https://www.instagram.com/europie.bsas/?hl=es-la" target=blank>Instagram</a>
+                        <a href="https://www.facebook.com/EuropieBuenosAires" target=blank>Facebook</a>
                     </div>
                 </div>
             </div>

@@ -10,15 +10,9 @@
 				<a href="https://www.facebook.com/EuropieBuenosAires/" target="blank">
 					<img src="img/facebook.png" alt="Facebook">
 				</a>
-				<!--<a href="www.plus.google.com/u/0/EuropieBA">
-					<img src="img/google+.png" alt="Google Plus">
-				</a>
-				<a href="www.blogger.com/EuropieBA">
-					<img src="img/blogger.png" alt="Blogger">
-				</a>
-				<a href="www.instagram.com/EuropieBA">
+				<a href="www.instagram.com/europie.bsas">
 					<img src="img/instagram.png" alt="Instagram">
-				</a>-->
+				</a>
 			</div>
 		</div>
 	</footer>
