@@ -41,10 +41,9 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="title">
-                            <h4>Plantillas AirFeet®</h4>
-                            <h1>Elegí las mejores</h1>
+                            <h1>Plantillas AirFeet®</h1>
                             <p class="border-grey">
-                                Plantillas ortopédicas que permiten alinear los huesos de pie y tobillo, restaurar su movimiento adecuado, prevenir y tratar los problemas posturales, dolencias de pie en general, tobillos, rodillas, caderas y espalda baja, realizadas con un sistema computarizado traido de Europa.
+                                Se realizan a través de un sistema computarizado traído de Europa y permiten alinear los huesos de pies y tobillos, restaurando su movimiento adecuado. También prevenienen y tratan los problemas posturales, dolores en la espalda baja, caderas, rodillas, tobillos y pies.
                                 <br>
                                 <br>
                                 <a href="plantillas.php">más información</a> 
@@ -104,10 +103,8 @@
                                     <div class="oth-service">
                                         <div class="img-service">
                                             <img src="img/fm2-sfma.png"/>
-                                            <div class="mascara">
-                                                <h4>FMS & SFMA</h4>
-                                                <a href="plantillas.php">más información</a>
-                                            </div>
+                                            <h4>FMS & SFMA</h4>
+                                            <a href="plantillas.php">más información</a>
                                         </div>
                                     </div>
                                 </li>
@@ -300,8 +297,10 @@
                     </div>
                     <div class="col-lg-6 social">
                         <p>¡También podés contactarnos a través de nuestras redes sociales y enterarte nuestras novedades!</p>
-                        <a href="https://www.instagram.com/europie.bsas/?hl=es-la" target=blank>Instagram</a>
-                        <a href="https://www.facebook.com/EuropieBuenosAires" target=blank>Facebook</a>
+                        <br>
+                        <a href="https://www.instagram.com/europie.bsas/?hl=es-la" target=blank>Instagram ></a>
+                        <br>
+                        <a href="https://www.facebook.com/EuropieBuenosAires" target=blank>Facebook ></a>
                     </div>
                 </div>
             </div>
