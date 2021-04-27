@@ -5,11 +5,11 @@ $white:#ffffff;
 $black:#000000;
 
 /*Azules*/
-$cyan:#5eb5f1;
+$cyan:#0082C8;
 $petroleum:#29485b;
 
 /*Verde*/
-$verde:#e5f375;
+$verde:#60D1BA;
 
 /*Gris*/
 $lightgrey:#eaeaea;
@@ -84,7 +84,7 @@ body {
 
 	a {
 		color:$verde;
-		font-size:14px;
+		font-size:16px;
 		letter-spacing: 1px;
 	}
 
@@ -159,8 +159,7 @@ header {
 	    	li {
 
 	    		a {
-	    			text-transform: uppercase;
-	 				font-size: 14px;
+	 				font-size: 16px;
 	    		}
 
 	    		a:hover {
@@ -327,7 +326,7 @@ header {
 					}
 
 					a {
-						font-size: 14px;
+						font-size: 16px;
 					}
 
 				}
@@ -337,7 +336,7 @@ header {
 				.caption {
 					
 					.hashtag {
-						font-size: 14px;
+						font-size: 16px;
 					}
 
 					h2 {
@@ -349,7 +348,7 @@ header {
 					}
 
 					a {
-						font-size:12px;
+						font-size:16px;
 					}
 				}
 			}
@@ -418,7 +417,7 @@ header {
 				text-transform: uppercase;
 				text-decoration: none;
 				font-weight:bold;
-				font-size: 14px;
+				font-size: 16px;
 				background-color:$verde;
 				color:white;
 				padding:3px 10px;
@@ -462,7 +461,7 @@ header {
 
 						span {
 							color:$white;
-							font-size:14px;
+							font-size:16px;
 							font-weight: bold;
 							padding:5px 10px;
 							background-color:$cyan;
@@ -480,7 +479,7 @@ header {
 						
 						p {
 							color:$mediumgrey;
-							font-size:14px;
+							font-size:16px;
 							margin-left:47px;
 						}
 					}				
@@ -504,7 +503,7 @@ header {
 
 			.btn-europie {
 				color:$white;
-				font-size: 14px;
+				font-size: 16px;
 				font-weight: bold;
 				letter-spacing:1px;
 				text-transform:uppercase;
@@ -512,13 +511,13 @@ header {
 				margin-top:10px;
 				border-color:transparent;
 				border-radius:2px;
-				background-color:$verde;
+				background-color:$petroleum;
 				display: inline-block;
 			
 			}
 
 			.btn-europie:hover {
-				background-color:$petroleum;
+				background-color:$verde;
 				text-decoration: none;
 			}
 
@@ -553,118 +552,9 @@ header {
 		    					position: relative;
 		    					float:left;
 
-		    					img {
-		    						display: block;
-		    						position: relative
-		    					}
-								
-								.mascara {
-									padding: 5px;
-									background-color:$petroleum;
-									position: absolute;
-								    overflow: hidden;
-								    padding:5px;
-								    top: 0;
-								    left: 0;
-								    right:0;
-								    height: 100%;
-
-									h4 {
-										color:$white;
-										font-size:13px;
-										font-weight: bold;
-										text-transform: uppercase;
-										position:relative;
-										margin:45px 0 0;
-										line-height: 18px;
-									}
-
-									a {
-										color:$verde;
-										font-size:12px;
-										letter-spacing: 1px;
-										text-decoration: none;
-										position: relative;
-									}
-
-									a:hover {
-										font-weight: bold;
-										text-decoration: none;
-									}
-								}
-							}
-
-							.prod-first {
-								img {
-									-webkit-transition: all 0.2s linear;
-									-moz-transition: all 0.2s linear;
-									-o-transition: all 0.2s linear;
-									-ms-transition: all 0.2s linear;
-									transition: all 0.2s linear;
-								}
-
-								.mascara {
-									-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
-									filter: alpha(opacity=0);
-									opacity: 0;
-									background-color: $petroleum;
-									-webkit-transition: all 0.4s ease-in-out;
-									-moz-transition: all 0.4s ease-in-out;
-									-o-transition: all 0.4s ease-in-out;
-									-ms-transition: all 0.4s ease-in-out;
-									transition: all 0.4s ease-in-out;
-								}
-
-								h4 {
-									-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
-									filter: alpha(opacity=0);
-									opacity: 0;
-									-webkit-transition: all 0.2s ease-in-out;
-									-moz-transition: all 0.2s ease-in-out;
-									-o-transition: all 0.2s ease-in-out;
-									-ms-transition: all 0.2s ease-in-out;
-									transition: all 0.2s ease-in-out;
-								}
-
-								a {
-									-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
-									filter: alpha(opacity=0);
-									opacity: 0;
-									-webkit-transition: all 0.2s ease-in-out;
-									-moz-transition: all 0.2s ease-in-out;
-									-o-transition: all 0.2s ease-in-out;
-									-ms-transition: all 0.2s ease-in-out;
-									transition: all 0.2s ease-in-out;
-								}
-
-							}
-
-							.prod-first:hover img {
-								-webkit-transform: scale(1.1,1.1);
-								-moz-transform: scale(1.1,1.1);
-								-o-transform: scale(1.1,1.1);
-								-ms-transform: scale(1.1,1.1);
-								transform: scale(1.1,1.1);
-							}
-
-							.prod-first:hover .mascara {
-								-ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
-								filter: alpha(opacity=100);
-								opacity: 1;
-							}
-
-							.prod-first:hover h4, .prod-first:hover a {
-							   -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=100)";
-							   filter: alpha(opacity=100);
-							   opacity: 1;
-							}
-
-							.prod-first:hover a.info {
-							   -webkit-transition-delay: 0.2s;
-							   -moz-transition-delay: 0.2s;
-							   -o-transition-delay: 0.2s;
-							   -ms-transition-delay: 0.2s;
-							   transition-delay: 0.2s;
+		    					a {
+		    						color:$verde;
+		    					}								
 							}
 
 							@media (max-width:560px) {
@@ -676,10 +566,6 @@ header {
 							@media (max-width:480px) {
 								.img-service {
 									padding:20px;
-								}
-
-								.prod-first:hover {
-									display:none;
 								}
 							}
 						}
@@ -747,7 +633,7 @@ header {
 					}
 
 					p {
-						font-size:14px;
+						font-size:16px;
 						color:$mediumgrey;
 						vertical-align: middle;
 						display: inline-block;
@@ -808,7 +694,7 @@ header {
 					}
 
 					p {
-						font-size:14px;
+						font-size:16px;
 						
 						br {
 							display:block;
@@ -824,7 +710,7 @@ header {
 		margin-bottom:50px;
 
 		.campos-obligatorios {
-			font-size:14px;
+			font-size:16px;
 			color:$mediumgrey;
 			font-weight:normal;
 
@@ -836,18 +722,18 @@ header {
 		.btn-europie {
 			float:right;
 			color:$white;
-			font-size: 14px;
+			font-size: 16px;
 			font-weight: bold;
 			letter-spacing:1px;
 			text-transform:uppercase;
 			padding:5px 20px;
 			border-color:transparent;
 			border-radius:2px;
-			background-color:$verde;
+			background-color:$petroleum;
 		}
 
 		.btn-europie:hover {
-			background-color:$petroleum;
+			background-color:$verde;
 		}
 
 		.social {
@@ -888,7 +774,7 @@ header {
 		.form-group {
 
 			label {
-				font-size:14px;
+				font-size:16px;
 				color:$mediumgrey;
 				font-weight:normal;
 
@@ -999,7 +885,7 @@ footer {
 	.intro-europie {
 
 		p {
-			font-size: 14px;
+			font-size: 16px;
 		}
 	}
 
@@ -1039,7 +925,7 @@ footer {
 			}
 
 			p {
-				font-size:14px;
+				font-size:16px;
 			}
 		}
 
@@ -1068,7 +954,7 @@ footer {
 	.intro {
 
 		p {
-			font-size: 14px;
+			font-size: 16px;
 		}
 	}
 
@@ -1082,7 +968,7 @@ footer {
 
 				span {
 					color:$white;
-					font-size:14px;
+					font-size:16px;
 					font-weight: bold;
 					padding:5px 10px;
 					background-color:$cyan;
@@ -1100,7 +986,7 @@ footer {
 				
 				p {
 					color:$mediumgrey;
-					font-size:14px;
+					font-size:16px;
 					margin-left: 40px;
 				}
 			}				
@@ -1137,20 +1023,20 @@ footer {
 
 	.btn-europie {
 		color:$white;
-		font-size: 14px;
+		font-size: 16px;
 		font-weight: bold;
 		letter-spacing:1px;
 		text-transform:uppercase;
 		padding:5px 20px;
 		border-color:transparent;
 		border-radius:2px;
-		background-color:$verde;
+		background-color:$petroleum;
 		display: inline-block;
 		margin-top:20px;
 	}
 
 	.btn-europie:hover {
-		background-color:$petroleum;
+		background-color:$verde;
 		text-decoration: none;
 	}
 
@@ -1192,7 +1078,7 @@ footer {
 					}
 					
 					p {
-						font-size: 14px;
+						font-size: 16px;
 						color:$mediumgrey;
 						margin-left:80px;
 					}
