@@ -63,7 +63,7 @@ body {
   border-bottom: 1px solid #eaeaea;
 }
 .title a {
-  color: #60D1BA;
+  color: #0082C8;
   font-size: 16px;
   letter-spacing: 1px;
 }
@@ -425,7 +425,7 @@ header .navbar-default .navbar-nav li.link-contacto a:hover {
   width: 280px;
 }
 .servicios .other-services .icons-oth-services .list-services li .oth-service .img-service a {
-  color: #60D1BA;
+  color: #29485b;
 }
 @media (max-width: 560px) {
   .servicios .other-services .icons-oth-services .list-services li .oth-service .img-service {
